@@ -11,7 +11,7 @@
 7. Формат адреса между Spine и Leaf  
          10.__Spine__.__Leaf__.0/30
 8. Формат адреса между Leaf и Client  
-         172.16.__Leaf__.__Client__/24
+         172.16.__Leaf__.__Client__/24  
 9. Loopbak подняты на каждом узле Spine и Leaf с маской /32
 10. Формат адреса Loopback  
           10.__Spine__.0.1/32  
