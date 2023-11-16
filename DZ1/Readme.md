@@ -23,6 +23,6 @@
 Схема адресного пространства
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ1/DZ-1-map%20of%20net1.JPG  "Схема адресного пространства")  
 
-Таблица коммутации
+Таблица коммутации  
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ1/DZ-1-com%20table.JPG)
 
