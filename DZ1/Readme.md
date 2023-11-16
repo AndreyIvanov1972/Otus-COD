@@ -19,4 +19,4 @@
 
 Проблемы связанные с расширением - если будет добавлен новый ЦОД, то нумерация новых Spine и Leaf может начинаться с 50 или 100, 
 в зависимости от кол-ва узлов в первом ЦОДе.
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ1/DZ-1-map%20of%20net.JPG "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ1/DZ-1-map%20of%20net.JPG  "Схема адресного пространства")
