@@ -1,1 +1,68 @@
 
+
+!Command: show running-config
+!Running configuration last done at: Fri Nov 24 12:43:10 2023
+!Time: Fri Nov 24 14:17:05 2023
+
+version 9.2(2) Bios:version
+hostname SPINE2
+vdc SPINE2 id 1
+  limit-resource vlan minimum 16 maximum 4094
+  limit-resource vrf minimum 2 maximum 4096
+  limit-resource port-channel minimum 0 maximum 511
+  limit-resource u4route-mem minimum 248 maximum 248
+  limit-resource u6route-mem minimum 96 maximum 96
+  limit-resource m4route-mem minimum 58 maximum 58
+  limit-resource m6route-mem minimum 8 maximum 8
+
+feature ospf
+
+username admin password 5 $5$A8BCTuKK$byehOZsnypPNgnCpx69i03mkIZw7KFH4ubyxQmXxYl
+C  role network-admin
+ip domain-lookup
+copp profile strict
+snmp-server user admin network-admin auth md5 0xad2fb6c1b8d5084cb80842b5a2b83a4c
+ priv 0xad2fb6c1b8d5084cb80842b5a2b83a4c localizedkey
+rmon event 1 description FATAL(1) owner PMON@FATAL
+rmon event 2 description CRITICAL(2) owner PMON@CRITICAL
+rmon event 3 description ERROR(3) owner PMON@ERROR
+rmon event 4 description WARNING(4) owner PMON@WARNING
+rmon event 5 description INFORMATION(5) owner PMON@INFO
+
+vlan 1
+
+vrf context management
+
+interface Ethernet1/1
+  no switchport
+  ip address 10.2.2.1/30
+  no shutdown
+
+interface Ethernet1/2
+  no switchport
+  ip address 10.2.1.1/30
+  no shutdown
+
+interface Ethernet1/3
+  no switchport
+  ip address 10.10.2.2/30
+  no shutdown
+
+interface Ethernet1/4
+  no switchport
+  ip address 10.2.3.1/30
+  no shutdown
+
+
+interface mgmt0
+  vrf member management
+
+interface loopback0
+  ip address 10.2.0.1/32
+line console
+line vty
+no feature signature-verification
+
+
+
+
