@@ -1,1 +1,52 @@
 
+
+!Command: show running-config
+!Running configuration last done at: Fri Nov 24 12:03:34 2023
+!Time: Fri Nov 24 14:27:57 2023
+
+version 9.2(2) Bios:version
+hostname SS
+vdc SS id 1
+  limit-resource vlan minimum 16 maximum 4094
+  limit-resource vrf minimum 2 maximum 4096
+  limit-resource port-channel minimum 0 maximum 511
+  limit-resource u4route-mem minimum 248 maximum 248
+  limit-resource u6route-mem minimum 96 maximum 96
+  limit-resource m4route-mem minimum 58 maximum 58
+  limit-resource m6route-mem minimum 8 maximum 8
+
+username admin password 5 $5$KnOQvfyx$aI81ZiSlaABiuClgDVmqwOkaPDXmst1CJJL8o1RYiI
+C  role network-admin
+ip domain-lookup
+snmp-server user admin network-admin auth md5 0x4ad6777eec4bdd1859c1e2837c4d97ac
+ priv 0x4ad6777eec4bdd1859c1e2837c4d97ac localizedkey
+rmon event 1 description FATAL(1) owner PMON@FATAL
+rmon event 2 description CRITICAL(2) owner PMON@CRITICAL
+rmon event 3 description ERROR(3) owner PMON@ERROR
+rmon event 4 description WARNING(4) owner PMON@WARNING
+rmon event 5 description INFORMATION(5) owner PMON@INFO
+
+vlan 1
+
+vrf context management
+
+interface Ethernet1/3
+  no switchport
+  ip address 10.10.2.1/30
+  no shutdown
+
+interface Ethernet1/4
+  no switchport
+  ip address 10.10.1.1/30
+  no shutdown
+
+interface mgmt0
+  vrf member management
+
+interface loopback0
+  ip address 10.10.10.10/32
+line console
+line vty
+no feature signature-verification
+
+
