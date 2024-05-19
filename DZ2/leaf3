@@ -58,11 +58,17 @@ interface Ethernet1/5
 interface Ethernet1/6
   no switchport
   ip address 172.16.3.254/24
+  ip ospf network point-to-point
+  no ip ospf passive-interface
+  ip router ospf Underlay area 0.0.0.0
   no shutdown
 
 interface Ethernet1/7
   no switchport
   ip address 172.16.4.254/24
+  ip ospf network point-to-point
+  no ip ospf passive-interface
+  ip router ospf Underlay area 0.0.0.0
   no shutdown
 
 interface Ethernet1/8
