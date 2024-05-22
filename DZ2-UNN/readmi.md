@@ -13,8 +13,11 @@
           10.0.__Leaf__.1/3
 6. Добавлен уровень SuperSpine, состоящий из одного узла.
 7. SuperSpine имеет Lo0 - 10.10.10.10/32
+8. Настроен BFD на интерфейсах
 
 Схема адресного пространства
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/dz2-shema%20seti-2UN1.JPG)  
 
 ___SuperSpine___
+__Ospf Neighbor__
+
