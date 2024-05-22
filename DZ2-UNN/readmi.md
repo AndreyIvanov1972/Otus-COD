@@ -30,8 +30,8 @@
 
 ###Проверка доступности всех роутеров
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-base.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SS-ping-router.PNG)
 
 ###Проверка доступности всех клиентов
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-base.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SS-ping-client.PNG)
