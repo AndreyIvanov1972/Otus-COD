@@ -69,3 +69,55 @@
 ### Проверка доступности всех клиентов
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-ping-client.PNG)
+
+## Leaf1 
+### Ospf Neighbor и Таблица маршутизации
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-Ospf-Nei-Route.PNG)
+
+### Ospf database
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-Ospf-base.PNG)
+
+### Проверка доступности всех роутеров
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-ping-router.PNG)
+
+### Проверка доступности всех клиентов
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-ping-client.PNG)
+
+## Leaf2 
+### Ospf Neighbor и Таблица маршутизации
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-Ospf-Nei-Route.PNG)
+
+### Ospf database
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-Ospf-base.PNG)
+
+### Проверка доступности всех роутеров
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-ping-router.PNG)
+
+### Проверка доступности всех клиентов
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-ping-client.PNG)
+
+## Leaf3 
+### Ospf Neighbor и Таблица маршутизации
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-Ospf-Nei-Route.PNG)
+
+### Ospf database
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-Ospf-base.PNG)
+
+### Проверка доступности всех роутеров
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-ping-router.PNG)
+
+### Проверка доступности всех клиентов
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-ping-client.PNG)
+
