@@ -23,3 +23,6 @@
 __Ospf Neighbor и Таблица маршутизации__
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-Nei-Route.PNG)
+
+__Ospf database__
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-Nei-Route.PNG)
