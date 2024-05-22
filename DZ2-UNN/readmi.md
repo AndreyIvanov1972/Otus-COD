@@ -19,5 +19,6 @@
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/dz2-shema%20seti-2UN1.JPG)  
 
 ___SuperSpine___
-__Ospf Neighbor__
+__Ospf Neighbor и Таблица маршутизации__
 
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-Nei-Route.PNG)
