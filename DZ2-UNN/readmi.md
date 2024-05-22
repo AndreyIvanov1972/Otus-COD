@@ -52,3 +52,20 @@
 ### Проверка доступности всех клиентов
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-ping-client.PNG)
+
+## Spine2 
+### Ospf Neighbor и Таблица маршутизации
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-Ospf-Nei-Route.PNG)
+
+### Ospf database
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-Ospf-base.PNG)
+
+### Проверка доступности всех роутеров
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-ping-router.PNG)
+
+### Проверка доступности всех клиентов
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-ping-client.PNG)
