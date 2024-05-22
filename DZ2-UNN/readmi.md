@@ -14,11 +14,12 @@
 6. Добавлен уровень SuperSpine, состоящий из одного узла.
 7. SuperSpine имеет Lo0 - 10.10.10.10/32
 8. Настроен BFD на интерфейсах
+9. Router-Id не настроен в ручную
 
 Схема адресного пространства
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/dz2-shema%20seti-2UN1.JPG)  
 
-___SuperSpine___
+___SuperSpine => ___
 __Ospf Neighbor и Таблица маршутизации__
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-Nei-Route.PNG)
