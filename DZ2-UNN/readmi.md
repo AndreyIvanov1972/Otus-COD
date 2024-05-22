@@ -20,18 +20,35 @@
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/dz2-shema%20seti-2UN1.JPG)  
 
 ## SuperSpine 
-###Ospf Neighbor и Таблица маршутизации
+### Ospf Neighbor и Таблица маршутизации
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-Nei-Route.PNG)
 
-###Ospf database
+### Ospf database
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-base.PNG)
 
-###Проверка доступности всех роутеров
+### Проверка доступности всех роутеров
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SS-ping-router.PNG)
 
-###Проверка доступности всех клиентов
+### Проверка доступности всех клиентов
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SS-ping-client.PNG)
+
+## Spine1 
+### Ospf Neighbor и Таблица маршутизации
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-Ospf-Nei-Route.PNG)
+
+### Ospf database
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-Ospf-base.PNG)
+
+### Проверка доступности всех роутеров
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-ping-router.PNG)
+
+### Проверка доступности всех клиентов
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-ping-client.PNG)
