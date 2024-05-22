@@ -124,8 +124,27 @@
 ## Клиенты
 ### Клиент1 
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-ping-client.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client1-ping%20route.PNG)
 
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client1-ping%20client.PNG)
+
+### Клиент2
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client2-ping%20route.PNG)
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client2-ping%20client.PNG)
+
+### Клиент3 
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client3-ping%20route.PNG)
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client3-ping%20client.PNG)
+
+### Клиент4 
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client4-ping%20route.PNG)
+
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client4-ping%20client.PNG)
 
 
 
