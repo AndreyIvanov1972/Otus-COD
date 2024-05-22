@@ -29,7 +29,5 @@
 __LoopBack не используем для построения связностей. Не используем unnumbered hosts.__
 
 Схема адресного пространства
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2/dz2-shema%20seti-1.JPG  "Схема адресного пространства")  
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/dz2-shema%20seti-2UN1.JPG)  
 
-Таблица коммутации  
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2/HostConnectionTable.JPG)
