@@ -558,177 +558,177 @@ PING 10.2.0.1 (10.2.0.1): 56 data bytes
 --- 10.2.0.1 ping statistics ---
 2 packets transmitted, 2 packets received, 0.00% packet loss
 round-trip min/avg/max = 12.122/13.777/15.433 ms
-LEAF2(config-if)# ping 10.0.1.1 count 2
-PING 10.0.1.1 (10.0.1.1): 56 data bytes
-64 bytes from 10.0.1.1: icmp_seq=0 ttl=253 time=63.462 ms
-64 bytes from 10.0.1.1: icmp_seq=1 ttl=253 time=37.091 ms
+LEAF2(config-if)# ping 10.0.1.1 count 2  
+PING 10.0.1.1 (10.0.1.1): 56 data bytes  
+64 bytes from 10.0.1.1: icmp_seq=0 ttl=253 time=63.462 ms  
+64 bytes from 10.0.1.1: icmp_seq=1 ttl=253 time=37.091 ms  
 
---- 10.0.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 37.091/50.276/63.462 ms
-LEAF2(config-if)# ping 10.0.2.1 count 2
-PING 10.0.2.1 (10.0.2.1): 56 data bytes
-64 bytes from 10.0.2.1: icmp_seq=0 ttl=255 time=14.09 ms
-64 bytes from 10.0.2.1: icmp_seq=1 ttl=255 time=3.473 ms
+--- 10.0.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 37.091/50.276/63.462 ms  
+LEAF2(config-if)# ping 10.0.2.1 count 2  
+PING 10.0.2.1 (10.0.2.1): 56 data bytes  
+64 bytes from 10.0.2.1: icmp_seq=0 ttl=255 time=14.09 ms  
+64 bytes from 10.0.2.1: icmp_seq=1 ttl=255 time=3.473 ms  
 
---- 10.0.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 3.473/8.781/14.09 ms
-LEAF2(config-if)# ping 10.0.3.1 count 2
-PING 10.0.3.1 (10.0.3.1): 56 data bytes
-64 bytes from 10.0.3.1: icmp_seq=0 ttl=253 time=20.298 ms
-64 bytes from 10.0.3.1: icmp_seq=1 ttl=253 time=26.152 ms
+--- 10.0.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 3.473/8.781/14.09 ms  
+LEAF2(config-if)# ping 10.0.3.1 count 2  
+PING 10.0.3.1 (10.0.3.1): 56 data bytes  
+64 bytes from 10.0.3.1: icmp_seq=0 ttl=253 time=20.298 ms  
+64 bytes from 10.0.3.1: icmp_seq=1 ttl=253 time=26.152 ms  
 
---- 10.0.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 20.298/23.224/26.152 ms
-LEAF2(config-if)# ping 172.16.1.1 count 2
-PING 172.16.1.1 (172.16.1.1): 56 data bytes
-64 bytes from 172.16.1.1: icmp_seq=0 ttl=61 time=61.864 ms
-64 bytes from 172.16.1.1: icmp_seq=1 ttl=61 time=37.34 ms
+--- 10.0.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 20.298/23.224/26.152 ms  
+LEAF2(config-if)# ping 172.16.1.1 count 2  
+PING 172.16.1.1 (172.16.1.1): 56 data bytes  
+64 bytes from 172.16.1.1: icmp_seq=0 ttl=61 time=61.864 ms  
+64 bytes from 172.16.1.1: icmp_seq=1 ttl=61 time=37.34 ms  
 
---- 172.16.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 37.34/49.601/61.864 ms
-LEAF2(config-if)# ping 172.16.2.1 count 2
-PING 172.16.2.1 (172.16.2.1): 56 data bytes
-64 bytes from 172.16.2.1: icmp_seq=0 ttl=63 time=17.335 ms
-64 bytes from 172.16.2.1: icmp_seq=1 ttl=63 time=9.219 ms
+--- 172.16.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 37.34/49.601/61.864 ms  
+LEAF2(config-if)# ping 172.16.2.1 count 2  
+PING 172.16.2.1 (172.16.2.1): 56 data bytes  
+64 bytes from 172.16.2.1: icmp_seq=0 ttl=63 time=17.335 ms  
+64 bytes from 172.16.2.1: icmp_seq=1 ttl=63 time=9.219 ms  
 
---- 172.16.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 9.219/13.277/17.335 ms
+--- 172.16.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 9.219/13.277/17.335 ms  
 LEAF2(config-if)# ping 172.16.3.1 count 2
-PING 172.16.3.1 (172.16.3.1): 56 data bytes
-64 bytes from 172.16.3.1: icmp_seq=0 ttl=61 time=72.076 ms
-64 bytes from 172.16.3.1: icmp_seq=1 ttl=61 time=18.202 ms
+PING 172.16.3.1 (172.16.3.1): 56 data bytes  
+64 bytes from 172.16.3.1: icmp_seq=0 ttl=61 time=72.076 ms  
+64 bytes from 172.16.3.1: icmp_seq=1 ttl=61 time=18.202 ms  
 
---- 172.16.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 18.202/45.138/72.076 ms
-LEAF2(config-if)# ping 172.16.4.1 count 2
-PING 172.16.4.1 (172.16.4.1): 56 data bytes
-64 bytes from 172.16.4.1: icmp_seq=0 ttl=61 time=65.654 ms
-64 bytes from 172.16.4.1: icmp_seq=1 ttl=61 time=39.768 ms
+--- 172.16.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 18.202/45.138/72.076 ms  
+LEAF2(config-if)# ping 172.16.4.1 count 2  
+PING 172.16.4.1 (172.16.4.1): 56 data bytes  
+64 bytes from 172.16.4.1: icmp_seq=0 ttl=61 time=65.654 ms  
+64 bytes from 172.16.4.1: icmp_seq=1 ttl=61 time=39.768 ms  
 
---- 172.16.4.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 39.768/52.71/65.654 ms
-LEAF2(config-if)#
-LEAF2(config-if)#
+--- 172.16.4.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 39.768/52.71/65.654 ms  
+LEAF2(config-if)#  
+LEAF2(config-if)#  
 
 ## Leaf3 
 ### ISIS Adjacency
-LEAF3(config-router)# sh isis adjacency
-IS-IS process: Underlay VRF: default
-IS-IS adjacency database:
-Legend: '!': No AF level connectivity in given topology
-System ID       SNPA            Level  State  Hold Time  Interface
-SPINE1          N/A             1-2    UP     00:00:30   Ethernet1/3
-SPINE2          N/A             1-2    UP     00:00:21   Ethernet1/4
+LEAF3(config-router)# sh isis adjacency  
+IS-IS process: Underlay VRF: default  
+IS-IS adjacency database:  
+Legend: '!': No AF level connectivity in given topology  
+System ID       SNPA            Level  State  Hold Time  Interface  
+SPINE1          N/A             1-2    UP     00:00:30   Ethernet1/3  
+SPINE2          N/A             1-2    UP     00:00:21   Ethernet1/4  
 
 
 ### ISIS Database
-LEAF3(config-router)# sh isis database
-IS-IS Process: Underlay LSP database VRF: default
-IS-IS Level-1 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00           0x00000014   0x042E    953        0/0/0/3
-  LEAF2.00-00           0x00000304   0xEA3D    846        0/0/0/3
-  LEAF3.00-00         * 0x00000003   0x24E7    773        0/0/0/3
-  SPINE1.00-00          0x00000015   0x161E    878        0/0/0/3
-  SPINE2.00-00          0x00000016   0x76B3    756        0/0/0/3
-  SS.00-00              0x00000011   0xBEAC    1052       0/0/0/3
+LEAF3(config-router)# sh isis database  
+IS-IS Process: Underlay LSP database VRF: default  
+IS-IS Level-1 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00           0x00000014   0x042E    953        0/0/0/3  
+  LEAF2.00-00           0x00000304   0xEA3D    846        0/0/0/3  
+  LEAF3.00-00         * 0x00000003   0x24E7    773        0/0/0/3  
+  SPINE1.00-00          0x00000015   0x161E    878        0/0/0/3  
+  SPINE2.00-00          0x00000016   0x76B3    756        0/0/0/3  
+  SS.00-00              0x00000011   0xBEAC    1052       0/0/0/3  
 
-IS-IS Level-2 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00           0x00000014   0x042E    818        0/0/0/3
-  LEAF2.00-00           0x00000304   0xEA3D    751        0/0/0/3
-  LEAF3.00-00         * 0x00000003   0x24E7    860        0/0/0/3
-  SPINE1.00-00          0x00000015   0x161E    898        0/0/0/3
-  SPINE2.00-00          0x00000016   0x76B3    803        0/0/0/3
-  SS.00-00              0x00000011   0xBEAC    786        0/0/0/3
+IS-IS Level-2 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00           0x00000014   0x042E    818        0/0/0/3  
+  LEAF2.00-00           0x00000304   0xEA3D    751        0/0/0/3  
+  LEAF3.00-00         * 0x00000003   0x24E7    860        0/0/0/3  
+  SPINE1.00-00          0x00000015   0x161E    898        0/0/0/3  
+  SPINE2.00-00          0x00000016   0x76B3    803        0/0/0/3  
+  SS.00-00              0x00000011   0xBEAC    786        0/0/0/3  
 
 
 ### Резултаты ping по всем узлам сети
-LEAF3(config-router)# ping 10.10.10.10 count 2
-PING 10.10.10.10 (10.10.10.10): 56 data bytes
-64 bytes from 10.10.10.10: icmp_seq=0 ttl=253 time=80.126 ms
-64 bytes from 10.10.10.10: icmp_seq=1 ttl=253 time=31.686 ms
+LEAF3(config-router)# ping 10.10.10.10 count 2  
+PING 10.10.10.10 (10.10.10.10): 56 data bytes  
+64 bytes from 10.10.10.10: icmp_seq=0 ttl=253 time=80.126 ms  
+64 bytes from 10.10.10.10: icmp_seq=1 ttl=253 time=31.686 ms  
 
---- 10.10.10.10 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 31.686/55.906/80.126 ms
-LEAF3(config-router)# ping 10.1.0.1 count 2
-PING 10.1.0.1 (10.1.0.1): 56 data bytes
-64 bytes from 10.1.0.1: icmp_seq=0 ttl=254 time=23.26 ms
-64 bytes from 10.1.0.1: icmp_seq=1 ttl=254 time=6.187 ms
+--- 10.10.10.10 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 31.686/55.906/80.126 ms  
+LEAF3(config-router)# ping 10.1.0.1 count 2  
+PING 10.1.0.1 (10.1.0.1): 56 data bytes  
+64 bytes from 10.1.0.1: icmp_seq=0 ttl=254 time=23.26 ms  
+64 bytes from 10.1.0.1: icmp_seq=1 ttl=254 time=6.187 ms  
 
---- 10.1.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 6.187/14.723/23.26 ms
-LEAF3(config-router)# ping 10.2.0.1 count 2
-PING 10.2.0.1 (10.2.0.1): 56 data bytes
-64 bytes from 10.2.0.1: icmp_seq=0 ttl=254 time=14.583 ms
-64 bytes from 10.2.0.1: icmp_seq=1 ttl=254 time=6.764 ms
+--- 10.1.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 6.187/14.723/23.26 ms  
+LEAF3(config-router)# ping 10.2.0.1 count 2  
+PING 10.2.0.1 (10.2.0.1): 56 data bytes  
+64 bytes from 10.2.0.1: icmp_seq=0 ttl=254 time=14.583 ms  
+64 bytes from 10.2.0.1: icmp_seq=1 ttl=254 time=6.764 ms  
 
---- 10.2.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 6.764/10.673/14.583 ms
-LEAF3(config-router)# ping 10.0.1.1 count 2
-PING 10.0.1.1 (10.0.1.1): 56 data bytes
-64 bytes from 10.0.1.1: icmp_seq=0 ttl=253 time=59.375 ms
-64 bytes from 10.0.1.1: icmp_seq=1 ttl=253 time=53.513 ms
+--- 10.2.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 6.764/10.673/14.583 ms  
+LEAF3(config-router)# ping 10.0.1.1 count 2  
+PING 10.0.1.1 (10.0.1.1): 56 data bytes  
+64 bytes from 10.0.1.1: icmp_seq=0 ttl=253 time=59.375 ms  
+64 bytes from 10.0.1.1: icmp_seq=1 ttl=253 time=53.513 ms  
 
---- 10.0.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 53.513/56.444/59.375 ms
-LEAF3(config-router)# ping 10.0.2.1 count 2
-PING 10.0.2.1 (10.0.2.1): 56 data bytes
-64 bytes from 10.0.2.1: icmp_seq=0 ttl=253 time=70.813 ms
-64 bytes from 10.0.2.1: icmp_seq=1 ttl=253 time=28.778 ms
+--- 10.0.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 53.513/56.444/59.375 ms  
+LEAF3(config-router)# ping 10.0.2.1 count 2  
+PING 10.0.2.1 (10.0.2.1): 56 data bytes  
+64 bytes from 10.0.2.1: icmp_seq=0 ttl=253 time=70.813 ms  
+64 bytes from 10.0.2.1: icmp_seq=1 ttl=253 time=28.778 ms  
 
---- 10.0.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 28.778/49.795/70.813 ms
-LEAF3(config-router)# ping 10.0.3.1 count 2
-PING 10.0.3.1 (10.0.3.1): 56 data bytes
-64 bytes from 10.0.3.1: icmp_seq=0 ttl=255 time=3.558 ms
-64 bytes from 10.0.3.1: icmp_seq=1 ttl=255 time=1.222 ms
+--- 10.0.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 28.778/49.795/70.813 ms  
+LEAF3(config-router)# ping 10.0.3.1 count 2  
+PING 10.0.3.1 (10.0.3.1): 56 data bytes  
+64 bytes from 10.0.3.1: icmp_seq=0 ttl=255 time=3.558 ms  
+64 bytes from 10.0.3.1: icmp_seq=1 ttl=255 time=1.222 ms  
 
---- 10.0.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 1.222/2.39/3.558 ms
-LEAF3(config-router)# ping 172.16.1.1 count 2
-PING 172.16.1.1 (172.16.1.1): 56 data bytes
-64 bytes from 172.16.1.1: icmp_seq=0 ttl=61 time=53.233 ms
-64 bytes from 172.16.1.1: icmp_seq=1 ttl=61 time=87.447 ms
+--- 10.0.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 1.222/2.39/3.558 ms  
+LEAF3(config-router)# ping 172.16.1.1 count 2  
+PING 172.16.1.1 (172.16.1.1): 56 data bytes  
+64 bytes from 172.16.1.1: icmp_seq=0 ttl=61 time=53.233 ms  
+64 bytes from 172.16.1.1: icmp_seq=1 ttl=61 time=87.447 ms  
 
---- 172.16.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 53.233/70.34/87.447 ms
-LEAF3(config-router)# ping 172.16.2.1 count 2
-PING 172.16.2.1 (172.16.2.1): 56 data bytes
-64 bytes from 172.16.2.1: icmp_seq=0 ttl=61 time=52.095 ms
-64 bytes from 172.16.2.1: icmp_seq=1 ttl=61 time=15.549 ms
+--- 172.16.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 53.233/70.34/87.447 ms  
+LEAF3(config-router)# ping 172.16.2.1 count 2  
+PING 172.16.2.1 (172.16.2.1): 56 data bytes  
+64 bytes from 172.16.2.1: icmp_seq=0 ttl=61 time=52.095 ms  
+64 bytes from 172.16.2.1: icmp_seq=1 ttl=61 time=15.549 ms  
 
---- 172.16.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 15.549/33.822/52.095 ms
-LEAF3(config-router)# ping 172.16.3.1 count 2
-PING 172.16.3.1 (172.16.3.1): 56 data bytes
-64 bytes from 172.16.3.1: icmp_seq=0 ttl=63 time=8.239 ms
-64 bytes from 172.16.3.1: icmp_seq=1 ttl=63 time=2.607 ms
+--- 172.16.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 15.549/33.822/52.095 ms  
+LEAF3(config-router)# ping 172.16.3.1 count 2  
+PING 172.16.3.1 (172.16.3.1): 56 data bytes  
+64 bytes from 172.16.3.1: icmp_seq=0 ttl=63 time=8.239 ms  
+64 bytes from 172.16.3.1: icmp_seq=1 ttl=63 time=2.607 ms  
 
---- 172.16.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 2.607/5.423/8.239 ms
-LEAF3(config-router)# ping 172.16.4.1 count 2
-PING 172.16.4.1 (172.16.4.1): 56 data bytes
-64 bytes from 172.16.4.1: icmp_seq=0 ttl=63 time=9.807 ms
-64 bytes from 172.16.4.1: icmp_seq=1 ttl=63 time=10.819 ms
+--- 172.16.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 2.607/5.423/8.239 ms  
+LEAF3(config-router)# ping 172.16.4.1 count 2  
+PING 172.16.4.1 (172.16.4.1): 56 data bytes  
+64 bytes from 172.16.4.1: icmp_seq=0 ttl=63 time=9.807 ms  
+64 bytes from 172.16.4.1: icmp_seq=1 ttl=63 time=10.819 ms  
 
---- 172.16.4.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 9.807/10.313/10.819 ms
+--- 172.16.4.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 9.807/10.313/10.819 ms   
 
