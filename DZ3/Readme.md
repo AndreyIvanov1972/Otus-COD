@@ -37,7 +37,7 @@ __LoopBack не используем для построения связнос�
 ## SuperSpine 
 ### ISIS Adjacency, Database и резултаты ping по всем узлам сети
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-Nei-Route.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/SS-result.txt)
 
 ### Ospf database
 
