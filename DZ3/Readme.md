@@ -36,7 +36,7 @@ __LoopBack не используем для построения связнос�
 
 ## SuperSpine 
 ### ISIS Adjacency
-SS# sh isis adjacency /N
+SS# sh isis adjacency
 IS-IS process: Underlay VRF: default
 IS-IS adjacency database:
 Legend: '!': No AF level connectivity in given topology
