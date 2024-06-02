@@ -36,13 +36,13 @@ __LoopBack не используем для построения связнос�
 
 ## SuperSpine 
 ### ISIS Adjacency
-SS# sh isis adjacency
-IS-IS process: Underlay VRF: default
-IS-IS adjacency database:
-Legend: '!': No AF level connectivity in given topology
-System ID       SNPA            Level  State  Hold Time  Interface
-SPINE2          N/A             1-2    UP     00:00:28   Ethernet1/3
-SPINE1          N/A             1-2    UP     00:00:23   Ethernet1/4
+SS# sh isis adjacency \r
+IS-IS process: Underlay VRF: default \r
+IS-IS adjacency database: \r
+Legend: '!': No AF level connectivity in given topology \r
+System ID       SNPA            Level  State  Hold Time  Interface \r
+SPINE2          N/A             1-2    UP     00:00:28   Ethernet1/3 \r
+SPINE1          N/A             1-2    UP     00:00:23   Ethernet1/4 \r
 
 ### ISIS Database
 SS# sh isis database
