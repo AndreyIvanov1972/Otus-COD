@@ -189,376 +189,376 @@ PING 10.10.10.10 (10.10.10.10): 56 data bytes
 
 --- 10.10.10.10 ping statistics ---  
 2 packets transmitted, 2 packets received, 0.00% packet loss  
-round-trip min/avg/max = 8.672/25.727/42.783 ms
-SPINE1(config-if)# ping 10.1.0.1 count 2
-PING 10.1.0.1 (10.1.0.1): 56 data bytes
-64 bytes from 10.1.0.1: icmp_seq=0 ttl=255 time=4.912 ms
-64 bytes from 10.1.0.1: icmp_seq=1 ttl=255 time=1.629 ms
+round-trip min/avg/max = 8.672/25.727/42.783 ms  
+SPINE1(config-if)# ping 10.1.0.1 count 2  
+PING 10.1.0.1 (10.1.0.1): 56 data bytes  
+64 bytes from 10.1.0.1: icmp_seq=0 ttl=255 time=4.912 ms  
+64 bytes from 10.1.0.1: icmp_seq=1 ttl=255 time=1.629 ms  
 
---- 10.1.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 1.629/3.27/4.912 ms
-SPINE1(config-if)# ping 10.2.0.1 count 2
-PING 10.2.0.1 (10.2.0.1): 56 data bytes
-64 bytes from 10.2.0.1: icmp_seq=0 ttl=253 time=65.124 ms
-64 bytes from 10.2.0.1: icmp_seq=1 ttl=253 time=61.933 ms
+--- 10.1.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 1.629/3.27/4.912 ms  
+SPINE1(config-if)# ping 10.2.0.1 count 2  
+PING 10.2.0.1 (10.2.0.1): 56 data bytes  
+64 bytes from 10.2.0.1: icmp_seq=0 ttl=253 time=65.124 ms  
+64 bytes from 10.2.0.1: icmp_seq=1 ttl=253 time=61.933 ms  
 
---- 10.2.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 61.933/63.528/65.124 ms
-SPINE1(config-if)# ping 10.0.1.1 count 2
-PING 10.0.1.1 (10.0.1.1): 56 data bytes
-64 bytes from 10.0.1.1: icmp_seq=0 ttl=254 time=17.809 ms
-64 bytes from 10.0.1.1: icmp_seq=1 ttl=254 time=16.43 ms
+--- 10.2.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 61.933/63.528/65.124 ms  
+SPINE1(config-if)# ping 10.0.1.1 count 2  
+PING 10.0.1.1 (10.0.1.1): 56 data bytes  
+64 bytes from 10.0.1.1: icmp_seq=0 ttl=254 time=17.809 ms  
+64 bytes from 10.0.1.1: icmp_seq=1 ttl=254 time=16.43 ms  
 
---- 10.0.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 16.43/17.119/17.809 ms
-SPINE1(config-if)# ping 10.0.2.1 count 2
-PING 10.0.2.1 (10.0.2.1): 56 data bytes
-64 bytes from 10.0.2.1: icmp_seq=0 ttl=254 time=51.736 ms
-64 bytes from 10.0.2.1: icmp_seq=1 ttl=254 time=13.069 ms
+--- 10.0.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 16.43/17.119/17.809 ms  
+SPINE1(config-if)# ping 10.0.2.1 count 2  
+PING 10.0.2.1 (10.0.2.1): 56 data bytes  
+64 bytes from 10.0.2.1: icmp_seq=0 ttl=254 time=51.736 ms  
+64 bytes from 10.0.2.1: icmp_seq=1 ttl=254 time=13.069 ms  
 
---- 10.0.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 13.069/32.402/51.736 ms
-SPINE1(config-if)# ping 10.0.3.1 count 2
-PING 10.0.3.1 (10.0.3.1): 56 data bytes
-64 bytes from 10.0.3.1: icmp_seq=0 ttl=254 time=16.333 ms
-64 bytes from 10.0.3.1: icmp_seq=1 ttl=254 time=12.378 ms
+--- 10.0.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 13.069/32.402/51.736 ms  
+SPINE1(config-if)# ping 10.0.3.1 count 2  
+PING 10.0.3.1 (10.0.3.1): 56 data bytes  
+64 bytes from 10.0.3.1: icmp_seq=0 ttl=254 time=16.333 ms  
+64 bytes from 10.0.3.1: icmp_seq=1 ttl=254 time=12.378 ms  
 
---- 10.0.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 12.378/14.355/16.333 ms
-SPINE1(config-if)# ping 172.16.1.1 count 2
-PING 172.16.1.1 (172.16.1.1): 56 data bytes
-64 bytes from 172.16.1.1: icmp_seq=0 ttl=62 time=22.473 ms
-64 bytes from 172.16.1.1: icmp_seq=1 ttl=62 time=7.259 ms
+--- 10.0.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 12.378/14.355/16.333 ms  
+SPINE1(config-if)# ping 172.16.1.1 count 2  
+PING 172.16.1.1 (172.16.1.1): 56 data bytes  
+64 bytes from 172.16.1.1: icmp_seq=0 ttl=62 time=22.473 ms  
+64 bytes from 172.16.1.1: icmp_seq=1 ttl=62 time=7.259 ms  
 
---- 172.16.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 7.259/14.865/22.473 ms
-SPINE1(config-if)# ping 172.16.2.1 count 2
-PING 172.16.2.1 (172.16.2.1): 56 data bytes
-64 bytes from 172.16.2.1: icmp_seq=0 ttl=62 time=22.303 ms
-64 bytes from 172.16.2.1: icmp_seq=1 ttl=62 time=9.311 ms
+--- 172.16.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 7.259/14.865/22.473 ms  
+SPINE1(config-if)# ping 172.16.2.1 count 2  
+PING 172.16.2.1 (172.16.2.1): 56 data bytes  
+64 bytes from 172.16.2.1: icmp_seq=0 ttl=62 time=22.303 ms  
+64 bytes from 172.16.2.1: icmp_seq=1 ttl=62 time=9.311 ms  
 
---- 172.16.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 9.311/15.807/22.303 ms
-SPINE1(config-if)# ping 172.16.3.1 count 2
-PING 172.16.3.1 (172.16.3.1): 56 data bytes
-64 bytes from 172.16.3.1: icmp_seq=0 ttl=62 time=65.779 ms
-64 bytes from 172.16.3.1: icmp_seq=1 ttl=62 time=15.908 ms
+--- 172.16.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 9.311/15.807/22.303 ms  
+SPINE1(config-if)# ping 172.16.3.1 count 2  
+PING 172.16.3.1 (172.16.3.1): 56 data bytes  
+64 bytes from 172.16.3.1: icmp_seq=0 ttl=62 time=65.779 ms  
+64 bytes from 172.16.3.1: icmp_seq=1 ttl=62 time=15.908 ms  
 
---- 172.16.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 15.908/40.843/65.779 ms
-SPINE1(config-if)# ping 172.16.4.1 count 2
-PING 172.16.4.1 (172.16.4.1): 56 data bytes
-64 bytes from 172.16.4.1: icmp_seq=0 ttl=62 time=36.736 ms
-64 bytes from 172.16.4.1: icmp_seq=1 ttl=62 time=29.933 ms
+--- 172.16.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 15.908/40.843/65.779 ms  
+SPINE1(config-if)# ping 172.16.4.1 count 2  
+PING 172.16.4.1 (172.16.4.1): 56 data bytes  
+64 bytes from 172.16.4.1: icmp_seq=0 ttl=62 time=36.736 ms  
+64 bytes from 172.16.4.1: icmp_seq=1 ttl=62 time=29.933 ms  
 
---- 172.16.4.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 29.933/33.334/36.736 ms
-SPINE1(config-if)#
+--- 172.16.4.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 29.933/33.334/36.736 ms  
+SPINE1(config-if)#  
 
 
 
 ## Spine2 
 ### ISIS Adjacency
-SPINE2# sh isis adjacency
-IS-IS process: Underlay VRF: default
-IS-IS adjacency database:
-Legend: '!': No AF level connectivity in given topology
-System ID       SNPA            Level  State  Hold Time  Interface
-LEAF2           N/A             1-2    UP     00:00:30   Ethernet1/1
-LEAF1           N/A             1-2    UP     00:00:31   Ethernet1/2
-SS              N/A             1-2    UP     00:00:29   Ethernet1/3
-LEAF3           N/A             1-2    UP     00:00:21   Ethernet1/4
+SPINE2# sh isis adjacency  
+IS-IS process: Underlay VRF: default  
+IS-IS adjacency database:  
+Legend: '!': No AF level connectivity in given topology  
+System ID       SNPA            Level  State  Hold Time  Interface  
+LEAF2           N/A             1-2    UP     00:00:30   Ethernet1/1  
+LEAF1           N/A             1-2    UP     00:00:31   Ethernet1/2  
+SS              N/A             1-2    UP     00:00:29   Ethernet1/3  
+LEAF3           N/A             1-2    UP     00:00:21   Ethernet1/4  
 
 
 ### ISIS Database и резултаты ping по всем узлам сети
-SPINE2# sh isis database
-IS-IS Process: Underlay LSP database VRF: default
-IS-IS Level-1 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00           0x00000012   0x082C    825        0/0/0/3
-  LEAF2.00-00           0x00000302   0xEE3B    649        0/0/0/3
-  LEAF3.00-00           0x00000001   0x28E5    666        0/0/0/3
-  SPINE1.00-00          0x00000013   0x1A1C    687        0/0/0/3
-  SPINE2.00-00        * 0x00000014   0x7AB1    690        0/0/0/3
-  SS.00-00              0x0000000F   0xC2AA    939        0/0/0/3
+SPINE2# sh isis database  
+IS-IS Process: Underlay LSP database VRF: default  
+IS-IS Level-1 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00           0x00000012   0x082C    825        0/0/0/3  
+  LEAF2.00-00           0x00000302   0xEE3B    649        0/0/0/3  
+  LEAF3.00-00           0x00000001   0x28E5    666        0/0/0/3  
+  SPINE1.00-00          0x00000013   0x1A1C    687        0/0/0/3  
+  SPINE2.00-00        * 0x00000014   0x7AB1    690        0/0/0/3  
+  SS.00-00              0x0000000F   0xC2AA    939        0/0/0/3  
 
-IS-IS Level-2 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00           0x00000012   0x082C    740        0/0/0/3
-  LEAF2.00-00           0x00000302   0xEE3B    658        0/0/0/3
-  LEAF3.00-00           0x00000001   0x28E5    666        0/0/0/3
-  SPINE1.00-00          0x00000013   0x1A1C    688        0/0/0/3
-  SPINE2.00-00        * 0x00000014   0x7AB1    690        0/0/0/3
-  SS.00-00              0x0000000F   0xC2AA    678        0/0/0/3
+IS-IS Level-2 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00           0x00000012   0x082C    740        0/0/0/3  
+  LEAF2.00-00           0x00000302   0xEE3B    658        0/0/0/3  
+  LEAF3.00-00           0x00000001   0x28E5    666        0/0/0/3  
+  SPINE1.00-00          0x00000013   0x1A1C    688        0/0/0/3  
+  SPINE2.00-00        * 0x00000014   0x7AB1    690        0/0/0/3  
+  SS.00-00              0x0000000F   0xC2AA    678        0/0/0/3  
 
 ### Резултаты ping по всем узлам сети
-SPINE2# ping 10.10.10.10 count 2
-PING 10.10.10.10 (10.10.10.10): 56 data bytes
-64 bytes from 10.10.10.10: icmp_seq=0 ttl=254 time=40.033 ms
-64 bytes from 10.10.10.10: icmp_seq=1 ttl=254 time=8.467 ms
+SPINE2# ping 10.10.10.10 count 2  
+PING 10.10.10.10 (10.10.10.10): 56 data bytes  
+64 bytes from 10.10.10.10: icmp_seq=0 ttl=254 time=40.033 ms  
+64 bytes from 10.10.10.10: icmp_seq=1 ttl=254 time=8.467 ms  
 
---- 10.10.10.10 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 8.467/24.25/40.033 ms
-SPINE2# ping 10.1.0.1 count 2
-PING 10.1.0.1 (10.1.0.1): 56 data bytes
-64 bytes from 10.1.0.1: icmp_seq=0 ttl=253 time=67.529 ms
-64 bytes from 10.1.0.1: icmp_seq=1 ttl=253 time=47.554 ms
+--- 10.10.10.10 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 8.467/24.25/40.033 ms  
+SPINE2# ping 10.1.0.1 count 2  
+PING 10.1.0.1 (10.1.0.1): 56 data bytes  
+64 bytes from 10.1.0.1: icmp_seq=0 ttl=253 time=67.529 ms  
+64 bytes from 10.1.0.1: icmp_seq=1 ttl=253 time=47.554 ms  
 
---- 10.1.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 47.554/57.541/67.529 ms
-SPINE2# ping 10.2.0.1 count 2
-PING 10.2.0.1 (10.2.0.1): 56 data bytes
-64 bytes from 10.2.0.1: icmp_seq=0 ttl=255 time=2.285 ms
-64 bytes from 10.2.0.1: icmp_seq=1 ttl=255 time=0.803 ms
+--- 10.1.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 47.554/57.541/67.529 ms  
+SPINE2# ping 10.2.0.1 count 2  
+PING 10.2.0.1 (10.2.0.1): 56 data bytes  
+64 bytes from 10.2.0.1: icmp_seq=0 ttl=255 time=2.285 ms  
+64 bytes from 10.2.0.1: icmp_seq=1 ttl=255 time=0.803 ms  
 
---- 10.2.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 0.803/1.544/2.285 ms
-SPINE2# ping 10.0.1.1 count 2
-PING 10.0.1.1 (10.0.1.1): 56 data bytes
-64 bytes from 10.0.1.1: icmp_seq=0 ttl=254 time=18.45 ms
-64 bytes from 10.0.1.1: icmp_seq=1 ttl=254 time=7.113 ms
+--- 10.2.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 0.803/1.544/2.285 ms  
+SPINE2# ping 10.0.1.1 count 2  
+PING 10.0.1.1 (10.0.1.1): 56 data bytes  
+64 bytes from 10.0.1.1: icmp_seq=0 ttl=254 time=18.45 ms  
+64 bytes from 10.0.1.1: icmp_seq=1 ttl=254 time=7.113 ms  
 
---- 10.0.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 7.113/12.781/18.45 ms
-SPINE2# ping 10.0.2.1 count 2
-PING 10.0.2.1 (10.0.2.1): 56 data bytes
-64 bytes from 10.0.2.1: icmp_seq=0 ttl=254 time=38.836 ms
-64 bytes from 10.0.2.1: icmp_seq=1 ttl=254 time=9.452 ms
+--- 10.0.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 7.113/12.781/18.45 ms  
+SPINE2# ping 10.0.2.1 count 2  
+PING 10.0.2.1 (10.0.2.1): 56 data bytes  
+64 bytes from 10.0.2.1: icmp_seq=0 ttl=254 time=38.836 ms  
+64 bytes from 10.0.2.1: icmp_seq=1 ttl=254 time=9.452 ms  
 
---- 10.0.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 9.452/24.143/38.836 ms
-SPINE2# ping 10.0.3.1 count 2
-PING 10.0.3.1 (10.0.3.1): 56 data bytes
-64 bytes from 10.0.3.1: icmp_seq=0 ttl=254 time=14.395 ms
-64 bytes from 10.0.3.1: icmp_seq=1 ttl=254 time=6.365 ms
+--- 10.0.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 9.452/24.143/38.836 ms  
+SPINE2# ping 10.0.3.1 count 2  
+PING 10.0.3.1 (10.0.3.1): 56 data bytes  
+64 bytes from 10.0.3.1: icmp_seq=0 ttl=254 time=14.395 ms  
+64 bytes from 10.0.3.1: icmp_seq=1 ttl=254 time=6.365 ms  
 
---- 10.0.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 6.365/10.379/14.395 ms
-SPINE2# ping 172.16.1.1 count 2
-PING 172.16.1.1 (172.16.1.1): 56 data bytes
-64 bytes from 172.16.1.1: icmp_seq=0 ttl=62 time=55.514 ms
-64 bytes from 172.16.1.1: icmp_seq=1 ttl=62 time=25.76 ms
+--- 10.0.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 6.365/10.379/14.395 ms  
+SPINE2# ping 172.16.1.1 count 2  
+PING 172.16.1.1 (172.16.1.1): 56 data bytes  
+64 bytes from 172.16.1.1: icmp_seq=0 ttl=62 time=55.514 ms  
+64 bytes from 172.16.1.1: icmp_seq=1 ttl=62 time=25.76 ms  
 
---- 172.16.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 25.76/40.637/55.514 ms
-SPINE2# ping 172.16.2.1 count 2
-PING 172.16.2.1 (172.16.2.1): 56 data bytes
-64 bytes from 172.16.2.1: icmp_seq=0 ttl=62 time=35.952 ms
-64 bytes from 172.16.2.1: icmp_seq=1 ttl=62 time=10.165 ms
+--- 172.16.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 25.76/40.637/55.514 ms  
+SPINE2# ping 172.16.2.1 count 2  
+PING 172.16.2.1 (172.16.2.1): 56 data bytes  
+64 bytes from 172.16.2.1: icmp_seq=0 ttl=62 time=35.952 ms  
+64 bytes from 172.16.2.1: icmp_seq=1 ttl=62 time=10.165 ms  
 
---- 172.16.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 10.165/23.058/35.952 ms
-SPINE2# ping 172.16.3.1 count 2
-PING 172.16.3.1 (172.16.3.1): 56 data bytes
-64 bytes from 172.16.3.1: icmp_seq=0 ttl=62 time=26.047 ms
-64 bytes from 172.16.3.1: icmp_seq=1 ttl=62 time=8.317 ms
+--- 172.16.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 10.165/23.058/35.952 ms  
+SPINE2# ping 172.16.3.1 count 2  
+PING 172.16.3.1 (172.16.3.1): 56 data bytes  
+64 bytes from 172.16.3.1: icmp_seq=0 ttl=62 time=26.047 ms  
+64 bytes from 172.16.3.1: icmp_seq=1 ttl=62 time=8.317 ms  
 
---- 172.16.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 8.317/17.181/26.047 ms
-SPINE2# ping 172.16.4.1 count 2
-PING 172.16.4.1 (172.16.4.1): 56 data bytes
-64 bytes from 172.16.4.1: icmp_seq=0 ttl=62 time=56.9 ms
-64 bytes from 172.16.4.1: icmp_seq=1 ttl=62 time=13.614 ms
+--- 172.16.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 8.317/17.181/26.047 ms  
+SPINE2# ping 172.16.4.1 count 2  
+PING 172.16.4.1 (172.16.4.1): 56 data bytes  
+64 bytes from 172.16.4.1: icmp_seq=0 ttl=62 time=56.9 ms  
+64 bytes from 172.16.4.1: icmp_seq=1 ttl=62 time=13.614 ms  
 
---- 172.16.4.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 13.614/35.256/56.9 ms
+--- 172.16.4.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 13.614/35.256/56.9 ms  
 
 
-## Leaf1 
+## Leaf1   
 ### ISIS Adjacency
-LEAF1# sh isis adjacency
-IS-IS process: Underlay VRF: default
-IS-IS adjacency database:
-Legend: '!': No AF level connectivity in given topology
-System ID       SNPA            Level  State  Hold Time  Interface
-SPINE1          N/A             1-2    UP     00:00:28   Ethernet1/1
-SPINE2          N/A             1-2    UP     00:00:24   Ethernet1/2
+LEAF1# sh isis adjacency  
+IS-IS process: Underlay VRF: default  
+IS-IS adjacency database:  
+Legend: '!': No AF level connectivity in given topology  
+System ID       SNPA            Level  State  Hold Time  Interface  
+SPINE1          N/A             1-2    UP     00:00:28   Ethernet1/1  
+SPINE2          N/A             1-2    UP     00:00:24   Ethernet1/2  
 
 
 ### ISIS Database
-LEAF1# sh isis database
-IS-IS Process: Underlay LSP database VRF: default
-IS-IS Level-1 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00         * 0x00000013   0x062D    863        0/0/0/3
-  LEAF2.00-00           0x00000303   0xEC3C    690        0/0/0/3
-  LEAF3.00-00           0x00000002   0x26E6    647        0/0/0/3
-  SPINE1.00-00          0x00000014   0x181D    712        0/0/0/3
-  SPINE2.00-00          0x00000016   0x76B3    1186       0/0/0/3
-  SS.00-00              0x00000010   0xC0AB    938        0/0/0/3
+LEAF1# sh isis database  
+IS-IS Process: Underlay LSP database VRF: default  
+IS-IS Level-1 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00         * 0x00000013   0x062D    863        0/0/0/3  
+  LEAF2.00-00           0x00000303   0xEC3C    690        0/0/0/3  
+  LEAF3.00-00           0x00000002   0x26E6    647        0/0/0/3  
+  SPINE1.00-00          0x00000014   0x181D    712        0/0/0/3  
+  SPINE2.00-00          0x00000016   0x76B3    1186       0/0/0/3  
+  SS.00-00              0x00000010   0xC0AB    938        0/0/0/3  
 
-IS-IS Level-2 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00         * 0x00000013   0x062D    738        0/0/0/3
-  LEAF2.00-00           0x00000304   0xEA3D    1182       0/0/0/3
-  LEAF3.00-00           0x00000002   0x26E6    703        0/0/0/3
-  SPINE1.00-00          0x00000014   0x181D    732        0/0/0/3
-  SPINE2.00-00          0x00000015   0x78B2    654        0/0/0/3
-  SS.00-00              0x00000010   0xC0AB    668        0/0/0/3
+IS-IS Level-2 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00         * 0x00000013   0x062D    738        0/0/0/3  
+  LEAF2.00-00           0x00000304   0xEA3D    1182       0/0/0/3  
+  LEAF3.00-00           0x00000002   0x26E6    703        0/0/0/3  
+  SPINE1.00-00          0x00000014   0x181D    732        0/0/0/3  
+  SPINE2.00-00          0x00000015   0x78B2    654        0/0/0/3  
+  SS.00-00              0x00000010   0xC0AB    668        0/0/0/3  
 
 
 ### Резултаты ping по всем узлам сети
-LEAF1# ping 10.10.10.10 count 2
-PING 10.10.10.10 (10.10.10.10): 56 data bytes
-64 bytes from 10.10.10.10: icmp_seq=0 ttl=253 time=96.418 ms
-64 bytes from 10.10.10.10: icmp_seq=1 ttl=253 time=34.066 ms
+LEAF1# ping 10.10.10.10 count 2  
+PING 10.10.10.10 (10.10.10.10): 56 data bytes  
+64 bytes from 10.10.10.10: icmp_seq=0 ttl=253 time=96.418 ms  
+64 bytes from 10.10.10.10: icmp_seq=1 ttl=253 time=34.066 ms  
 
---- 10.10.10.10 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 34.066/65.242/96.418 ms
-LEAF1# ping 10.1.0.1 count 2
-PING 10.1.0.1 (10.1.0.1): 56 data bytes
-64 bytes from 10.1.0.1: icmp_seq=0 ttl=254 time=22.109 ms
-64 bytes from 10.1.0.1: icmp_seq=1 ttl=254 time=10.461 ms
+--- 10.10.10.10 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 34.066/65.242/96.418 ms  
+LEAF1# ping 10.1.0.1 count 2  
+PING 10.1.0.1 (10.1.0.1): 56 data bytes  
+64 bytes from 10.1.0.1: icmp_seq=0 ttl=254 time=22.109 ms  
+64 bytes from 10.1.0.1: icmp_seq=1 ttl=254 time=10.461 ms  
 
---- 10.1.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 10.461/16.285/22.109 ms
-LEAF1# ping 10.2.0.1 count 2
-PING 10.2.0.1 (10.2.0.1): 56 data bytes
-64 bytes from 10.2.0.1: icmp_seq=0 ttl=254 time=17.929 ms
-64 bytes from 10.2.0.1: icmp_seq=1 ttl=254 time=11.98 ms
+--- 10.1.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 10.461/16.285/22.109 ms  
+LEAF1# ping 10.2.0.1 count 2  
+PING 10.2.0.1 (10.2.0.1): 56 data bytes  
+64 bytes from 10.2.0.1: icmp_seq=0 ttl=254 time=17.929 ms  
+64 bytes from 10.2.0.1: icmp_seq=1 ttl=254 time=11.98 ms  
 
---- 10.2.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 11.98/14.954/17.929 ms
-LEAF1# ping 10.0.1.1 count 2
-PING 10.0.1.1 (10.0.1.1): 56 data bytes
-64 bytes from 10.0.1.1: icmp_seq=0 ttl=255 time=6.813 ms
-64 bytes from 10.0.1.1: icmp_seq=1 ttl=255 time=0.636 ms
+--- 10.2.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 11.98/14.954/17.929 ms  
+LEAF1# ping 10.0.1.1 count 2  
+PING 10.0.1.1 (10.0.1.1): 56 data bytes  
+64 bytes from 10.0.1.1: icmp_seq=0 ttl=255 time=6.813 ms  
+64 bytes from 10.0.1.1: icmp_seq=1 ttl=255 time=0.636 ms  
 
---- 10.0.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 0.636/3.724/6.813 ms
-LEAF1# ping 10.0.2.1 count 2
-PING 10.0.2.1 (10.0.2.1): 56 data bytes
-64 bytes from 10.0.2.1: icmp_seq=0 ttl=253 time=89.259 ms
-64 bytes from 10.0.2.1: icmp_seq=1 ttl=253 time=34.694 ms
+--- 10.0.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 0.636/3.724/6.813 ms  
+LEAF1# ping 10.0.2.1 count 2  
+PING 10.0.2.1 (10.0.2.1): 56 data bytes  
+64 bytes from 10.0.2.1: icmp_seq=0 ttl=253 time=89.259 ms  
+64 bytes from 10.0.2.1: icmp_seq=1 ttl=253 time=34.694 ms  
 
---- 10.0.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 34.694/61.976/89.259 ms
-LEAF1# ping 10.0.3.1 count 2
-PING 10.0.3.1 (10.0.3.1): 56 data bytes
-64 bytes from 10.0.3.1: icmp_seq=0 ttl=253 time=41.626 ms
-64 bytes from 10.0.3.1: icmp_seq=1 ttl=253 time=13.212 ms
+--- 10.0.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 34.694/61.976/89.259 ms  
+LEAF1# ping 10.0.3.1 count 2  
+PING 10.0.3.1 (10.0.3.1): 56 data bytes  
+64 bytes from 10.0.3.1: icmp_seq=0 ttl=253 time=41.626 ms  
+64 bytes from 10.0.3.1: icmp_seq=1 ttl=253 time=13.212 ms  
 
---- 10.0.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 13.212/27.419/41.626 ms
-LEAF1# ping 172.16.1.1 count 2
-PING 172.16.1.1 (172.16.1.1): 56 data bytes
-64 bytes from 172.16.1.1: icmp_seq=0 ttl=63 time=10.735 ms
-64 bytes from 172.16.1.1: icmp_seq=1 ttl=63 time=10.89 ms
+--- 10.0.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 13.212/27.419/41.626 ms  
+LEAF1# ping 172.16.1.1 count 2  
+PING 172.16.1.1 (172.16.1.1): 56 data bytes  
+64 bytes from 172.16.1.1: icmp_seq=0 ttl=63 time=10.735 ms  
+64 bytes from 172.16.1.1: icmp_seq=1 ttl=63 time=10.89 ms  
 
---- 172.16.1.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 10.735/10.812/10.89 ms
-LEAF1# ping 172.16.2.1 count 2
-PING 172.16.2.1 (172.16.2.1): 56 data bytes
-64 bytes from 172.16.2.1: icmp_seq=0 ttl=61 time=47.872 ms
-64 bytes from 172.16.2.1: icmp_seq=1 ttl=61 time=64.921 ms
+--- 172.16.1.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 10.735/10.812/10.89 ms  
+LEAF1# ping 172.16.2.1 count 2  
+PING 172.16.2.1 (172.16.2.1): 56 data bytes  
+64 bytes from 172.16.2.1: icmp_seq=0 ttl=61 time=47.872 ms  
+64 bytes from 172.16.2.1: icmp_seq=1 ttl=61 time=64.921 ms  
 
---- 172.16.2.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 47.872/56.396/64.921 ms
-LEAF1# ping 172.16.3.1 count 2
-PING 172.16.3.1 (172.16.3.1): 56 data bytes
-64 bytes from 172.16.3.1: icmp_seq=0 ttl=61 time=69.597 ms
-64 bytes from 172.16.3.1: icmp_seq=1 ttl=61 time=32.977 ms
+--- 172.16.2.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 47.872/56.396/64.921 ms  
+LEAF1# ping 172.16.3.1 count 2  
+PING 172.16.3.1 (172.16.3.1): 56 data bytes  
+64 bytes from 172.16.3.1: icmp_seq=0 ttl=61 time=69.597 ms  
+64 bytes from 172.16.3.1: icmp_seq=1 ttl=61 time=32.977 ms  
 
---- 172.16.3.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 32.977/51.286/69.597 ms
-LEAF1# ping 172.16.4.1 count 2
-PING 172.16.4.1 (172.16.4.1): 56 data bytes
-64 bytes from 172.16.4.1: icmp_seq=0 ttl=61 time=39.507 ms
-64 bytes from 172.16.4.1: icmp_seq=1 ttl=61 time=54.497 ms
+--- 172.16.3.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 32.977/51.286/69.597 ms  
+LEAF1# ping 172.16.4.1 count 2  
+PING 172.16.4.1 (172.16.4.1): 56 data bytes  
+64 bytes from 172.16.4.1: icmp_seq=0 ttl=61 time=39.507 ms  
+64 bytes from 172.16.4.1: icmp_seq=1 ttl=61 time=54.497 ms  
 
---- 172.16.4.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 39.507/47.002/54.497 ms
+--- 172.16.4.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 39.507/47.002/54.497 ms  
 
 
 ## Leaf2 
 ### ISIS Adjacency
-LEAF2(config-if)# sh isis adjacency
-IS-IS process: Underlay VRF: default
-IS-IS adjacency database:
-Legend: '!': No AF level connectivity in given topology
-System ID       SNPA            Level  State  Hold Time  Interface
-SPINE2          N/A             1-2    UP     00:00:26   Ethernet1/1
-SPINE1          N/A             1-2    UP     00:00:26   Ethernet1/2
+LEAF2(config-if)# sh isis adjacency  
+IS-IS process: Underlay VRF: default  
+IS-IS adjacency database:  
+Legend: '!': No AF level connectivity in given topology  
+System ID       SNPA            Level  State  Hold Time  Interface  
+SPINE2          N/A             1-2    UP     00:00:26   Ethernet1/1  
+SPINE1          N/A             1-2    UP     00:00:26   Ethernet1/2  
 
 
 ### ISIS Database
-LEAF2(config-if)# sh isis database
-IS-IS Process: Underlay LSP database VRF: default
-IS-IS Level-1 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00           0x00000013   0x062D    720        0/0/0/3
-  LEAF2.00-00         * 0x00000304   0xEA3D    1137       0/0/0/3
-  LEAF3.00-00           0x00000003   0x24E7    1061       0/0/0/3
-  SPINE1.00-00          0x00000015   0x161E    1168       0/0/0/3
-  SPINE2.00-00          0x00000016   0x76B3    1046       0/0/0/3
-  SS.00-00              0x00000010   0xC0AB    798        0/0/0/3
+LEAF2(config-if)# sh isis database  
+IS-IS Process: Underlay LSP database VRF: default  
+IS-IS Level-1 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00           0x00000013   0x062D    720        0/0/0/3  
+  LEAF2.00-00         * 0x00000304   0xEA3D    1137       0/0/0/3  
+  LEAF3.00-00           0x00000003   0x24E7    1061       0/0/0/3  
+  SPINE1.00-00          0x00000015   0x161E    1168       0/0/0/3  
+  SPINE2.00-00          0x00000016   0x76B3    1046       0/0/0/3  
+  SS.00-00              0x00000010   0xC0AB    798        0/0/0/3  
 
-IS-IS Level-2 Link State Database
-  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T
-  LEAF1.00-00           0x00000014   0x042E    1108       0/0/0/3
-  LEAF2.00-00         * 0x00000304   0xEA3D    1043       0/0/0/3
-  LEAF3.00-00           0x00000003   0x24E7    1148       0/0/0/3
-  SPINE1.00-00          0x00000015   0x161E    1188       0/0/0/3
-  SPINE2.00-00          0x00000016   0x76B3    1093       0/0/0/3
-  SS.00-00              0x00000011   0xBEAC    1076       0/0/0/3
+IS-IS Level-2 Link State Database  
+  LSPID                 Seq Number   Checksum  Lifetime   A/P/O/T  
+  LEAF1.00-00           0x00000014   0x042E    1108       0/0/0/3  
+  LEAF2.00-00         * 0x00000304   0xEA3D    1043       0/0/0/3  
+  LEAF3.00-00           0x00000003   0x24E7    1148       0/0/0/3  
+  SPINE1.00-00          0x00000015   0x161E    1188       0/0/0/3  
+  SPINE2.00-00          0x00000016   0x76B3    1093       0/0/0/3  
+  SS.00-00              0x00000011   0xBEAC    1076       0/0/0/3  
 
 
 ### Резултаты ping по всем узлам сети
 
-LEAF2(config-if)# ping 10.10.10.10 count 2
-PING 10.10.10.10 (10.10.10.10): 56 data bytes
-64 bytes from 10.10.10.10: icmp_seq=0 ttl=253 time=70.265 ms
-64 bytes from 10.10.10.10: icmp_seq=1 ttl=253 time=28.525 ms
+LEAF2(config-if)# ping 10.10.10.10 count 2  
+PING 10.10.10.10 (10.10.10.10): 56 data bytes  
+64 bytes from 10.10.10.10: icmp_seq=0 ttl=253 time=70.265 ms  
+64 bytes from 10.10.10.10: icmp_seq=1 ttl=253 time=28.525 ms  
 
---- 10.10.10.10 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 28.525/49.395/70.265 ms
-LEAF2(config-if)# ping 10.1.0.1 count 2
-PING 10.1.0.1 (10.1.0.1): 56 data bytes
-64 bytes from 10.1.0.1: icmp_seq=0 ttl=254 time=352.053 ms
-64 bytes from 10.1.0.1: icmp_seq=1 ttl=254 time=225.008 ms
+--- 10.10.10.10 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 28.525/49.395/70.265 ms  
+LEAF2(config-if)# ping 10.1.0.1 count 2  
+PING 10.1.0.1 (10.1.0.1): 56 data bytes  
+64 bytes from 10.1.0.1: icmp_seq=0 ttl=254 time=352.053 ms  
+64 bytes from 10.1.0.1: icmp_seq=1 ttl=254 time=225.008 ms  
 
---- 10.1.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 225.008/288.53/352.053 ms
-LEAF2(config-if)# ping 10.2.0.1 count 2
-PING 10.2.0.1 (10.2.0.1): 56 data bytes
-64 bytes from 10.2.0.1: icmp_seq=0 ttl=254 time=15.433 ms
-64 bytes from 10.2.0.1: icmp_seq=1 ttl=254 time=12.122 ms
+--- 10.1.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 225.008/288.53/352.053 ms  
+LEAF2(config-if)# ping 10.2.0.1 count 2  
+PING 10.2.0.1 (10.2.0.1): 56 data bytes  
+64 bytes from 10.2.0.1: icmp_seq=0 ttl=254 time=15.433 ms  
+64 bytes from 10.2.0.1: icmp_seq=1 ttl=254 time=12.122 ms  
 
---- 10.2.0.1 ping statistics ---
-2 packets transmitted, 2 packets received, 0.00% packet loss
-round-trip min/avg/max = 12.122/13.777/15.433 ms
-LEAF2(config-if)# ping 10.0.1.1 count 2  
+--- 10.2.0.1 ping statistics ---  
+2 packets transmitted, 2 packets received, 0.00% packet loss  
+round-trip min/avg/max = 12.122/13.777/15.433 ms  
+LEAF2(config-if)# ping 10.0.1.1 count 2    
 PING 10.0.1.1 (10.0.1.1): 56 data bytes  
 64 bytes from 10.0.1.1: icmp_seq=0 ttl=253 time=63.462 ms  
 64 bytes from 10.0.1.1: icmp_seq=1 ttl=253 time=37.091 ms  
