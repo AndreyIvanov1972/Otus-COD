@@ -39,127 +39,30 @@ __LoopBack не используем для построения связнос�
 
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/SS-result.txt)
 
-### Ospf database
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SuperSpine-Ospf-base.PNG)
-
-### Проверка доступности всех роутеров
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SS-ping-router.PNG)
-
-### Проверка доступности всех клиентов
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/SS/SS-ping-client.PNG)
 
 ## Spine1 
-### Ospf Neighbor и Таблица маршутизации
+### ISIS Adjacency, Database и резултаты ping по всем узлам сети
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-Ospf-Nei-Route.PNG)
-
-### Ospf database
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-Ospf-base.PNG)
-
-### Проверка доступности всех роутеров
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-ping-router.PNG)
-
-### Проверка доступности всех клиентов
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine1/Spine1-ping-client.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/Spine1-result.txt)
 
 ## Spine2 
-### Ospf Neighbor и Таблица маршутизации
+### ISIS Adjacency, Database и резултаты ping по всем узлам сети
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-Ospf-Nei-Route.PNG)
-
-### Ospf database
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-Ospf-base.PNG)
-
-### Проверка доступности всех роутеров
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-ping-router.PNG)
-
-### Проверка доступности всех клиентов
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Spine2/Spine2-ping-client.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/Spine2-result.txt)
 
 ## Leaf1 
-### Ospf Neighbor и Таблица маршутизации
+### ISIS Adjacency, Database и резултаты ping по всем узлам сети
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-Ospf-Nei-Route.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/Leaf1-result.txt)
 
-### Ospf database
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-Ospf-base.PNG)
-
-### Проверка доступности всех роутеров
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-ping-router.PNG)
-
-### Проверка доступности всех клиентов
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf1/Leaf1-ping-client.PNG)
 
 ## Leaf2 
-### Ospf Neighbor и Таблица маршутизации
+### ISIS Adjacency, Database и резултаты ping по всем узлам сети
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-Ospf-Nei-Route.PNG)
-
-### Ospf database
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-Ospf-base.PNG)
-
-### Проверка доступности всех роутеров
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-ping-router.PNG)
-
-### Проверка доступности всех клиентов
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf2/Leaf2-ping-client.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/Leaf2-result.txt)
 
 ## Leaf3 
-### Ospf Neighbor и Таблица маршутизации
+### ISIS Adjacency, Database и резултаты ping по всем узлам сети
 
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-Ospf-Nei-Route.PNG)
-
-### Ospf database
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-Ospf-base.PNG)
-
-### Проверка доступности всех роутеров
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-ping-router.PNG)
-
-### Проверка доступности всех клиентов
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Leaf3/Leaf3-ping-client.PNG)
-
-## Клиенты
-### Клиент1 
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client1-ping%20route.PNG)
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client1-ping%20client.PNG)
-
-### Клиент2
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client2-ping%20route.PNG)
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client2-ping%20client.PNG)
-
-### Клиент3 
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client3-ping%20route.PNG)
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client3-ping%20client.PNG)
-
-### Клиент4 
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client4-ping%20route.PNG)
-
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2-UNN/Clients/client4-ping%20client.PNG)
-
-
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/edit/main/DZ3/Leaf3-result.txt)
 
