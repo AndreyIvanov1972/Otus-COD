@@ -17,5 +17,5 @@ __LoopBack не используем для построения связнос�
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2/dz2-shema%20seti-1.JPG  "Схема адресного пространства")  
 
 Таблица коммутации  
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ2/HostConnectionTable.JPG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/new-table-comm.JPG)
 
