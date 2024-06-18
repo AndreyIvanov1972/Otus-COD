@@ -1,3 +1,6 @@
+Some basic Git commands are:
+```
+
 SS# sh ip bgp summ
 BGP summary information for VRF default, address family IPv4 Unicast
 BGP router identifier 1.1.1.1, local AS number 65100
@@ -9,3 +12,4 @@ BGP community entries [0/0], BGP clusterlist entries [0/0]
 Neighbor        V    AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
 10.0.12.2       4 65110     299     292      107    0    0 02:12:40 9
 10.0.13.2       4 65110     301     292      107    0    0 02:12:04 8
+```
