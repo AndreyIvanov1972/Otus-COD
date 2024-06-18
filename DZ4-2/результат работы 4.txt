@@ -1,0 +1,171 @@
+Результат проверки доступности сети от хоста Client 1
+
+VPCS> ping 1.1.1.1 -c 2
+84 bytes from 1.1.1.1 icmp_seq=1 ttl=253 time=140.521 ms
+84 bytes from 1.1.1.1 icmp_seq=2 ttl=253 time=82.204 ms
+
+VPCS> ping 2.2.2.2 -c 2
+84 bytes from 2.2.2.2 icmp_seq=1 ttl=254 time=19.242 ms
+84 bytes from 2.2.2.2 icmp_seq=2 ttl=254 time=53.549 ms
+
+VPCS> ping 3.3.3.3 -c 2
+84 bytes from 3.3.3.3 icmp_seq=1 ttl=254 time=65.060 ms
+84 bytes from 3.3.3.3 icmp_seq=2 ttl=254 time=25.391 ms
+
+VPCS> ping 4.4.4.4 -c 2
+84 bytes from 4.4.4.4 icmp_seq=1 ttl=255 time=15.030 ms
+84 bytes from 4.4.4.4 icmp_seq=2 ttl=255 time=11.536 ms
+
+VPCS> ping 5.5.5.5 -c 2
+84 bytes from 5.5.5.5 icmp_seq=1 ttl=253 time=86.530 ms
+84 bytes from 5.5.5.5 icmp_seq=2 ttl=253 time=112.032 ms
+
+VPCS> ping 6.6.6.6 -c 2
+84 bytes from 6.6.6.6 icmp_seq=1 ttl=253 time=99.366 ms
+84 bytes from 6.6.6.6 icmp_seq=2 ttl=253 time=47.397 ms
+
+VPCS> ping 172.16.1.1 -c 2
+172.16.1.1 icmp_seq=1 ttl=64 time=0.001 ms
+172.16.1.1 icmp_seq=2 ttl=64 time=0.001 ms
+
+VPCS> ping 172.16.2.1 -c 2
+84 bytes from 172.16.2.1 icmp_seq=1 ttl=61 time=109.869 ms
+84 bytes from 172.16.2.1 icmp_seq=2 ttl=61 time=31.559 ms
+
+VPCS> ping 172.16.3.1 -c 2
+84 bytes from 172.16.3.1 icmp_seq=1 ttl=61 time=79.153 ms
+84 bytes from 172.16.3.1 icmp_seq=2 ttl=61 time=56.937 ms
+
+VPCS> ping 172.16.4.1 -c 2
+84 bytes from 172.16.4.1 icmp_seq=1 ttl=61 time=99.174 ms
+84 bytes from 172.16.4.1 icmp_seq=2 ttl=61 time=36.362 ms
+=============
+Результат проверки доступности сети от хоста Client 2
+
+VPCS> ping 1.1.1.1 -c 2
+84 bytes from 1.1.1.1 icmp_seq=1 ttl=253 time=128.819 ms
+84 bytes from 1.1.1.1 icmp_seq=2 ttl=253 time=68.899 ms
+
+VPCS> ping 2.2.2.2 -c 2
+84 bytes from 2.2.2.2 icmp_seq=1 ttl=254 time=90.521 ms
+84 bytes from 2.2.2.2 icmp_seq=2 ttl=254 time=21.306 ms
+
+VPCS> ping 3.3.3.3 -c 2
+84 bytes from 3.3.3.3 icmp_seq=1 ttl=254 time=22.736 ms
+84 bytes from 3.3.3.3 icmp_seq=2 ttl=254 time=8.981 ms
+
+VPCS> ping 4.4.4.4 -c 2
+84 bytes from 4.4.4.4 icmp_seq=1 ttl=253 time=108.843 ms
+84 bytes from 4.4.4.4 icmp_seq=2 ttl=253 time=69.739 ms
+
+VPCS> ping 5.5.5.5 -c 2
+84 bytes from 5.5.5.5 icmp_seq=1 ttl=255 time=29.173 ms
+84 bytes from 5.5.5.5 icmp_seq=2 ttl=255 time=4.829 ms
+
+VPCS> ping 6.6.6.6 -c 2
+84 bytes from 6.6.6.6 icmp_seq=1 ttl=253 time=54.613 ms
+84 bytes from 6.6.6.6 icmp_seq=2 ttl=253 time=94.695 ms
+
+VPCS> ping 172.16.1.1 -c 2
+84 bytes from 172.16.1.1 icmp_seq=1 ttl=61 time=128.476 ms
+84 bytes from 172.16.1.1 icmp_seq=2 ttl=61 time=58.841 ms
+
+VPCS> ping 172.16.2.1 -c 2
+172.16.2.1 icmp_seq=1 ttl=64 time=0.001 ms
+172.16.2.1 icmp_seq=2 ttl=64 time=0.001 ms
+
+VPCS> ping 172.16.3.1 -c 2
+84 bytes from 172.16.3.1 icmp_seq=1 ttl=61 time=85.834 ms
+84 bytes from 172.16.3.1 icmp_seq=2 ttl=61 time=61.799 ms
+
+VPCS> ping 172.16.4.1 -c 2
+84 bytes from 172.16.4.1 icmp_seq=1 ttl=61 time=125.765 ms
+84 bytes from 172.16.4.1 icmp_seq=2 ttl=61 time=349.236 ms
+============
+
+Результат проверки доступности сети от хоста Client 3
+VPCS> ping 1.1.1.1 -c 2
+84 bytes from 1.1.1.1 icmp_seq=1 ttl=253 time=94.152 ms
+84 bytes from 1.1.1.1 icmp_seq=2 ttl=253 time=81.330 ms
+
+VPCS> ping 2.2.2.2 -c 2
+84 bytes from 2.2.2.2 icmp_seq=1 ttl=254 time=16.896 ms
+84 bytes from 2.2.2.2 icmp_seq=2 ttl=254 time=38.001 ms
+
+VPCS> ping 3.3.3.3 -c 2
+84 bytes from 3.3.3.3 icmp_seq=1 ttl=254 time=37.573 ms
+84 bytes from 3.3.3.3 icmp_seq=2 ttl=254 time=19.422 ms
+
+VPCS> ping 4.4.4.4 -c 2
+84 bytes from 4.4.4.4 icmp_seq=1 ttl=253 time=77.940 ms
+84 bytes from 4.4.4.4 icmp_seq=2 ttl=253 time=62.189 ms
+
+VPCS> ping 5.5.5.5 -c 2
+84 bytes from 5.5.5.5 icmp_seq=1 ttl=253 time=81.221 ms
+84 bytes from 5.5.5.5 icmp_seq=2 ttl=253 time=72.719 ms
+
+VPCS> ping 6.6.6.6 -c 2
+84 bytes from 6.6.6.6 icmp_seq=1 ttl=255 time=16.410 ms
+84 bytes from 6.6.6.6 icmp_seq=2 ttl=255 time=20.257 ms
+
+VPCS> ping 172.16.1.1 -c 2
+84 bytes from 172.16.1.1 icmp_seq=1 ttl=61 time=121.077 ms
+84 bytes from 172.16.1.1 icmp_seq=2 ttl=61 time=79.230 ms
+
+VPCS> ping 172.16.2.1 -c 2
+84 bytes from 172.16.2.1 icmp_seq=1 ttl=61 time=480.441 ms
+84 bytes from 172.16.2.1 icmp_seq=2 ttl=61 time=27.200 ms
+
+VPCS> ping 172.16.3.1 -c 2
+172.16.3.1 icmp_seq=1 ttl=64 time=0.001 ms
+172.16.3.1 icmp_seq=2 ttl=64 time=0.001 ms
+
+VPCS> ping 172.16.4.1 -c 2
+84 bytes from 172.16.4.1 icmp_seq=1 ttl=63 time=30.883 ms
+84 bytes from 172.16.4.1 icmp_seq=2 ttl=63 time=18.776 ms
+=========
+Результат проверки доступности сети от хоста Client 4
+
+VPCS> ping 1.1.1.1 -c 2
+84 bytes from 1.1.1.1 icmp_seq=1 ttl=253 time=110.337 ms
+84 bytes from 1.1.1.1 icmp_seq=2 ttl=253 time=52.975 ms
+
+VPCS> ping 2.2.2.2 -c 2
+84 bytes from 2.2.2.2 icmp_seq=1 ttl=254 time=38.428 ms
+84 bytes from 2.2.2.2 icmp_seq=2 ttl=254 time=13.111 ms
+
+VPCS> ping 3.3.3.3 -c 2
+84 bytes from 3.3.3.3 icmp_seq=1 ttl=254 time=33.112 ms
+84 bytes from 3.3.3.3 icmp_seq=2 ttl=254 time=27.032 ms
+
+VPCS> ping 4.4.4.4 -c 2
+84 bytes from 4.4.4.4 icmp_seq=1 ttl=253 time=106.213 ms
+84 bytes from 4.4.4.4 icmp_seq=2 ttl=253 time=39.013 ms
+
+VPCS> ping 5.5.5.5 -c 2
+84 bytes from 5.5.5.5 icmp_seq=1 ttl=253 time=444.191 ms
+84 bytes from 5.5.5.5 icmp_seq=2 ttl=253 time=602.843 ms
+
+VPCS> ping 6.6.6.6 -c 2
+84 bytes from 6.6.6.6 icmp_seq=1 ttl=255 time=5.224 ms
+84 bytes from 6.6.6.6 icmp_seq=2 ttl=255 time=7.679 ms
+
+VPCS> ping 172.16.1.1 -c 2
+84 bytes from 172.16.1.1 icmp_seq=1 ttl=61 time=73.009 ms
+84 bytes from 172.16.1.1 icmp_seq=2 ttl=61 time=103.191 ms
+
+VPCS> ping 172.16.2.1 -c 2
+84 bytes from 172.16.2.1 icmp_seq=1 ttl=61 time=142.086 ms
+84 bytes from 172.16.2.1 icmp_seq=2 ttl=61 time=98.273 ms
+
+VPCS> ping 172.16.3.1 -c 2
+84 bytes from 172.16.3.1 icmp_seq=1 ttl=63 time=77.404 ms
+84 bytes from 172.16.3.1 icmp_seq=2 ttl=63 time=24.679 ms
+
+VPCS> ping 172.16.4.1 -c 2
+172.16.4.1 icmp_seq=1 ttl=64 time=0.001 ms
+172.16.4.1 icmp_seq=2 ttl=64 time=0.001 ms
+
+
+
+
