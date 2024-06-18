@@ -29,3 +29,43 @@ __LoopBack не используем для построения связнос�
 ![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20ip%20bgp%20summ.txt)
 
 ![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20ip%20route%20bgp.txt)
+
+## Spine1
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine1/sh%20runn.txt)
+
+![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine1/sh%20ip%20bgp%20summ.txt)
+
+![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine1/sh%20ip%20route%20bgp.txt)
+
+## Spine2
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine2/sh%20runn.txt)
+
+![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine2/sh%20ip%20bgp%20summ.txt)
+
+![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine2/sh%20ip%20route%20bgp.txt)
+
+## Leaf1
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf1/sh%20runn.txt)
+
+![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf1/sh%20ip%20bgp%20summ.txt)
+
+![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf1/sh%20ip%20route%20bgp.txt)
+
+## Leaf2
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf2/sh%20runn.txt)
+
+![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf2/sh%20ip%20bgp%20summ.txt)
+
+![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf2/sh%20ip%20route%20bgp.txt)
+
+## Leaf3
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf3/sh%20runn.txt)
+
+![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf3/sh%20ip%20bgp%20summ.txt)
+
+![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf3/sh%20ip%20route%20bgp.txt)
+
+
+
+
+
