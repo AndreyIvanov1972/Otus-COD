@@ -1,0 +1,23 @@
+SPINE2# sh ip route bgp
+IP Route Table for VRF "default"
+'*' denotes best ucast next-hop
+'**' denotes best mcast next-hop
+'[x/y]' denotes [preference/metric]
+'%<string>' in via output denotes VRF <string>
+
+1.1.1.1/32, ubest/mbest: 1/0
+    *via 10.0.13.1, [20/0], 01:24:53, bgp-65110, external, tag 65100
+4.4.4.4/32, ubest/mbest: 1/0
+    *via 10.0.34.2, [20/0], 1d23h, bgp-65110, external, tag 65101
+5.5.5.5/32, ubest/mbest: 1/0
+    *via 10.0.35.2, [20/0], 2d01h, bgp-65110, external, tag 65102
+6.6.6.6/32, ubest/mbest: 1/0
+    *via 10.0.36.2, [20/0], 2d01h, bgp-65110, external, tag 65103
+172.16.1.0/24, ubest/mbest: 1/0
+    *via 10.0.34.2, [20/0], 1d23h, bgp-65110, external, tag 65101
+172.16.2.0/24, ubest/mbest: 1/0
+    *via 10.0.35.2, [20/0], 2d01h, bgp-65110, external, tag 65102
+172.16.3.0/24, ubest/mbest: 1/0
+    *via 10.0.36.2, [20/0], 2d01h, bgp-65110, external, tag 65103
+172.16.4.0/24, ubest/mbest: 1/0
+    *via 10.0.36.2, [20/0], 2d01h, bgp-65110, external, tag 65103

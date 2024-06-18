@@ -1,0 +1,13 @@
+SPINE2# sh ip bgp summary
+BGP summary information for VRF default, address family IPv4 Unicast
+BGP router identifier 3.3.3.3, local AS number 65110
+BGP table version is 32, IPv4 Unicast config peers 5, capable peers 4
+9 network entries and 9 paths using 1980 bytes of memory
+BGP attribute entries [5/820], BGP AS path entries [4/24]
+BGP community entries [0/0], BGP clusterlist entries [0/0]
+
+Neighbor        V    AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
+10.0.13.1       4 65100     264     274       32    0    0 01:24:44 1
+10.0.34.2       4 65101    2858    2857       32    0    0    1d23h 2
+10.0.35.2       4 65102    2970    2970       32    0    0    2d01h 2
+10.0.36.2       4 65103    2963    2963       32    0    0    2d01h 3
