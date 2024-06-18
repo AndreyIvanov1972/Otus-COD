@@ -1,0 +1,12 @@
+LEAF3#
+LEAF3# sh ip bgp summ
+BGP summary information for VRF default, address family IPv4 Unicast
+BGP router identifier 6.6.6.6, local AS number 65103
+BGP table version is 37, IPv4 Unicast config peers 2, capable peers 2
+11 network entries and 16 paths using 3040 bytes of memory
+BGP attribute entries [5/820], BGP AS path entries [4/36]
+BGP community entries [0/0], BGP clusterlist entries [0/0]
+
+Neighbor        V    AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
+10.0.26.1       4 65110    2937    2931       37    0    0    2d00h 7
+10.0.36.1       4 65110    2940    2931       37    0    0    2d00h 6
