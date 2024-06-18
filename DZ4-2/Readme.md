@@ -25,5 +25,7 @@ __LoopBack не используем для построения связнос�
 
 ## SS
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20runn.txt)
+
 ![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20ip%20bgp%20summ.txt)
+
 ![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20ip%20route%20bgp.txt)
