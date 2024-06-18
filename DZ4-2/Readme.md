@@ -24,4 +24,6 @@ __LoopBack не используем для построения связнос�
 
 
 ## SS
-![Результат](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%204.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20runn.txt)
+![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20ip%20bgp%20summ.txt)
+![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/SS/sh%20ip%20route%20bgp.txt)
