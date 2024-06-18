@@ -1,0 +1,28 @@
+SS# sh ip route bgp
+IP Route Table for VRF "default"
+'*' denotes best ucast next-hop
+'**' denotes best mcast next-hop
+'[x/y]' denotes [preference/metric]
+'%<string>' in via output denotes VRF <string>
+
+2.2.2.2/32, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+3.3.3.3/32, ubest/mbest: 1/0
+    *via 10.0.13.2, [20/0], 02:12:12, bgp-65100, external, tag 65110
+4.4.4.4/32, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+5.5.5.5/32, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+6.6.6.6/32, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+100.100.100.100/32, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+172.16.1.0/24, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+172.16.2.0/24, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+172.16.3.0/24, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+172.16.4.0/24, ubest/mbest: 1/0
+    *via 10.0.12.2, [20/0], 02:12:48, bgp-65100, external, tag 65110
+
