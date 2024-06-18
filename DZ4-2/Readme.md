@@ -19,6 +19,5 @@ __LoopBack не используем для построения связнос�
 Таблица коммутации  
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/new-table-comm.JPG)
 
-## SuperSpine 
-### Sh ip bgp summ
+## Результаты доступности хостов с клиентских сетей
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/new-table-comm.JPG)
