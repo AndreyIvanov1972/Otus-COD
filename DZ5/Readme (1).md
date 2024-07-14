@@ -10,15 +10,13 @@
 5. Линки между Spine и Leaf - маска /30
 6. Loopbak подняты на каждом узле Spine и Leaf с маской /32
 
-__LoopBack не используем для построения связностей. Не используем unnumbered hosts.__
 
 Схема адресного пространства
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/SHEMA_SETI_LAB5.JPG  "Схема адресного пространства")  
 
-Таблица коммутации  
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/new-table-comm.JPG)
 
-### Результаты доступности хостов с клиентских сетей
+
+### Результаты доступности хостов в клиентских сетях
 ![Результат](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
 
 
