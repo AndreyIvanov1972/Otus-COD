@@ -1,1 +1,14 @@
+VPCS> ping 172.16.10.1 -c 2
 
+84 bytes from 172.16.10.1 icmp_seq=1 ttl=64 time=36.533 ms
+84 bytes from 172.16.10.1 icmp_seq=2 ttl=64 time=50.247 ms
+
+VPCS> ping 172.16.10.2 -c 2
+
+84 bytes from 172.16.10.2 icmp_seq=1 ttl=64 time=76.256 ms
+84 bytes from 172.16.10.2 icmp_seq=2 ttl=64 time=55.601 ms
+
+VPCS> ping 172.16.10.3 -c 2
+
+84 bytes from 172.16.10.1 icmp_seq=3 ttl=64 time=67.224 ms
+84 bytes from 172.16.10.1 icmp_seq=4 ttl=64 time=19.747 ms
