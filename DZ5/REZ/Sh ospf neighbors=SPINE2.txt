@@ -1,1 +1,7 @@
-
+SPINE2(config-if)# sh ip ospf neighbors
+ OSPF Process ID Underlay VRF default
+ Total number of neighbors: 3
+ Neighbor ID     Pri State            Up Time  Address         Interface
+ 5.5.5.5           1 FULL/ -          01:23:57 10.0.35.2       Eth1/1
+ 4.4.4.4           1 FULL/ -          01:23:59 10.0.34.2       Eth1/2
+ 6.6.6.6           1 FULL/ -          00:00:44 10.0.36.2       Eth1/4
