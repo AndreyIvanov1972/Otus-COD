@@ -45,6 +45,9 @@ __LoopBack не используем для построения связнос�
 ## Leaf1
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF1/1.txt)
 
+![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF1.txt))
+
+
 ![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf1/sh%20ip%20bgp%20summ.txt)
 
 ![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf1/sh%20ip%20route%20bgp.txt)
@@ -52,12 +55,16 @@ __LoopBack не используем для построения связнос�
 ## Leaf2
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF2/1.txt)
 
+![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF2.txt))
+
 ![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf2/sh%20ip%20bgp%20summ.txt)
 
 ![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf2/sh%20ip%20route%20bgp.txt)
 
 ## Leaf3
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF3/1.txt)
+
+![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF3.txt))
 
 ![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf3/sh%20ip%20bgp%20summ.txt)
 
