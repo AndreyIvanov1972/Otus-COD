@@ -1,1 +1,16 @@
 
+C Vlan20-2
+VPCS> ping 172.16.20.1 -c 2
+
+84 bytes from 172.16.20.1 icmp_seq=1 ttl=64 time=83.611 ms
+84 bytes from 172.16.20.1 icmp_seq=2 ttl=64 time=71.430 ms
+
+VPCS> ping 172.16.20.2 -c 2
+
+172.16.20.2 icmp_seq=1 ttl=64 time=0.001 ms
+172.16.20.2 icmp_seq=2 ttl=64 time=0.001 ms
+
+VPCS> ping 172.16.20.3 -c 2
+
+84 bytes from 172.16.20.3 icmp_seq=1 ttl=64 time=72.494 ms
+84 bytes from 172.16.20.3 icmp_seq=2 ttl=64 time=176.903 ms
