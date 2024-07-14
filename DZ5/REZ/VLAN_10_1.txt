@@ -1,1 +1,15 @@
+C Vlan10-1
+VPCS> ping 172.16.10.11 -c 2
 
+84 bytes from 172.16.10.11 icmp_seq=1 ttl=64 time=70.706 ms
+84 bytes from 172.16.10.11 icmp_seq=2 ttl=64 time=47.967 ms
+
+VPCS> ping 172.16.10.2 -c 2
+
+84 bytes from 172.16.10.2 icmp_seq=1 ttl=64 time=108.986 ms
+84 bytes from 172.16.10.2 icmp_seq=2 ttl=64 time=71.680 ms
+
+VPCS> ping 172.16.10.3 -c 2
+
+84 bytes from 172.16.10.3 icmp_seq=1 ttl=64 time=134.716 ms
+84 bytes from 172.16.10.3 icmp_seq=2 ttl=64 time=100.532 ms
