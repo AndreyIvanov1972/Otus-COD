@@ -25,7 +25,7 @@ __LoopBack не используем для построения связнос�
 ## Spine1
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/SPINE1/1.txt)
 
-![Sh ip ospf neighbors][(https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh ospf neighbors=SPINE1.txt](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
+![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
 
 ![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine1/sh%20ip%20bgp%20summ.txt)
 
