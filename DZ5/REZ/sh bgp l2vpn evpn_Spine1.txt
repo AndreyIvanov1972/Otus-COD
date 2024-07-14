@@ -1,1 +1,45 @@
+SPINE1(config-if)# sh bgp l2vpn evpn
+BGP routing table information for VRF default, address family L2VPN EVPN
+BGP table version is 265, Local Router ID is 2.2.2.2
+Status: s-suppressed, x-deleted, S-stale, d-dampened, h-history, *-valid, >-best
+Path type: i-internal, e-external, c-confed, l-local, a-aggregate, r-redist, I-i
+njected
+Origin codes: i - IGP, e - EGP, ? - incomplete, | - multipath, & - backup, 2 - b
+est2
 
+   Network            Next Hop            Metric     LocPrf     Weight Path
+Route Distinguisher: 4.4.4.4:32777
+*>e[3]:[0]:[32]:[100.100.100.1]/88
+                      100.100.100.1                                  0 65101 i
+
+Route Distinguisher: 4.4.4.4:32787
+*>e[3]:[0]:[32]:[100.100.100.1]/88
+                      100.100.100.1                                  0 65101 i
+
+Route Distinguisher: 4.4.4.4:32797
+*>e[3]:[0]:[32]:[100.100.100.1]/88
+                      100.100.100.1                                  0 65101 i
+
+Route Distinguisher: 5.5.5.5:32777
+*>e[3]:[0]:[32]:[100.100.100.2]/88
+                      100.100.100.2                                  0 65102 i
+
+Route Distinguisher: 5.5.5.5:32787
+*>e[3]:[0]:[32]:[100.100.100.2]/88
+                      100.100.100.2                                  0 65102 i
+
+Route Distinguisher: 5.5.5.5:32797
+*>e[3]:[0]:[32]:[100.100.100.2]/88
+                      100.100.100.2                                  0 65102 i
+
+Route Distinguisher: 6.6.6.6:32777
+*>e[3]:[0]:[32]:[100.100.100.3]/88
+                      100.100.100.3                                  0 65103 i
+
+Route Distinguisher: 6.6.6.6:32787
+*>e[3]:[0]:[32]:[100.100.100.3]/88
+                      100.100.100.3                                  0 65103 i
+
+Route Distinguisher: 6.6.6.6:32797
+*>e[3]:[0]:[32]:[100.100.100.3]/88
+                      100.100.100.3                                  0 651
