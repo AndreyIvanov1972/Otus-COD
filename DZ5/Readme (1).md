@@ -17,8 +17,13 @@
 
 
 ### Результаты доступности хостов в клиентских сетях
-![Результат](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
+![Результат 10 VLAN](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_1.txt))
 
+![Результат 10 VLAN 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_11.txt))
+
+![Результат 20 VLAN](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
+
+![Результат 30 VLAN](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
 
 ## Spine1
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/SPINE1/1.txt)
