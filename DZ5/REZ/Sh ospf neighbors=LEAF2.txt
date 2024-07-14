@@ -1,1 +1,8 @@
 
+LEAF2# sh ip ospf neighbors
+ OSPF Process ID Underlay VRF default
+ Total number of neighbors: 2
+ Neighbor ID     Pri State            Up Time  Address         Interface
+ 3.3.3.3           1 FULL/ -          01:25:58 10.0.35.1       Eth1/1
+ 2.2.2.2           1 FULL/ -          1d00h    10.0.25.1       Eth1/2
+LEAF2#
