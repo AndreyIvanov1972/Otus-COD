@@ -49,14 +49,14 @@ __LoopBack не используем для построения связнос�
 
 ![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF1.txt)
 
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF1.txt)
+![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF1.txt)
 
 ## Leaf2
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF2/1.txt)
 
 ![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF2.txt))
 
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF2.txt)
+![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF2.txt)
 
 ![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF2.txt)
 
@@ -67,7 +67,7 @@ __LoopBack не используем для построения связнос�
 
 ![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF3.txt)
 
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF3.txt)
+![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF3.txt)
 
 
 
