@@ -67,7 +67,7 @@ __LoopBack не используем для построения связнос�
 
 ![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF3.txt)
 
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF3.txt)
+![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summary_LEAF3.txt)
 
 
 
