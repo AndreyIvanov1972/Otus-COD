@@ -29,14 +29,18 @@ __LoopBack не используем для построения связнос�
 
 ![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_Spine1.txt)
 
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine1/sh%20ip%20route%20bgp.txt)
+![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summ_Spine1.txt)
 
 ## Spine2
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine2/sh%20runn.txt)
 
-![Sh ip bgp summ](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine2/sh%20ip%20bgp%20summ.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/SPINE2/1.txt)
 
-![Sh ip route bgp](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Spine2/sh%20ip%20route%20bgp.txt)
+![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE2.txt))
+
+![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_Spine2.txt)
+
+![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summ_Spine2.txt)
+
 
 ## Leaf1
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ4-2/Conf/Leaf1/sh%20runn.txt)
