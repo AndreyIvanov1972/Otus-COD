@@ -25,13 +25,13 @@
 ### Spine1
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Spine1%20sh%20ip%20bgp%20summ.PNG  "Sh ip bgp summary")
 ### Spine2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/SHEMA_SETI_LAB5.JPG  "Схема адресного пространства")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Spine2%20sh%20ip%20bgp%20summ.PNG  "Sh ip bgp summary")
 ### LEAF1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/SHEMA_SETI_LAB5.JPG  "Схема адресного пространства")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf1%20sh%20ip%20bgp%20summ.PNG  "Sh ip bgp summary")
 ### LEAF2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/SHEMA_SETI_LAB5.JPG  "Схема адресного пространства")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf2%20sh%20ip%20bgp%20summ.PNG  "Sh ip bgp summary")
 ### LEAF3
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/SHEMA_SETI_LAB5.JPG  "Схема адресного пространства")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf3%20sh%20ip%20bgp%20summ.PNG  "Sh ip bgp summary")
 
 ## Результаты доступности хостов в клиентских сетях
 
