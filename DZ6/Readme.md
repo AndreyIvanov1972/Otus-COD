@@ -23,7 +23,7 @@
 
 ## Underlay Сеть
 ### Spine1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Spine1%20sh%20ip%20bgp%20summ.PNG)  "Sh ip bgp summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Spine1%20sh%20ip%20bgp%20summ.PNG "Sh ip bgp summary")
 ### Spine2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/SHEMA_SETI_LAB5.JPG  "Схема адресного пространства")
 ### LEAF1
