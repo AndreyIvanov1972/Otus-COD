@@ -48,10 +48,11 @@
 
 ## Результаты доступности хостов в клиентских сетях
 
-### VLAN 10
-![ХОСТ 10](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_1.txt)
+### HOST 10.1
+![ХОСТ 1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-1.txt)
 
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_11.txt)
+### HOST 10.11
+![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host11.txt)
 
 ![ХОСТ 2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_2.txt)
 
