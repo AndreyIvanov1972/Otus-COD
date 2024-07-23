@@ -67,7 +67,7 @@
 ![ХОСТ 20.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-2.txt)
 
 ### HOST 20.3
-![ХОСТ 20.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-1.txt)
+![ХОСТ 20.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-3.txt)
 
 ### HOST 30.1
 ![ХОСТ 30.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-1.txt)
