@@ -10,16 +10,6 @@ VPCS> ping 172.16.10.11 -c 2
 
 VPCS> ping 172.16.10.2 -c 2
 
-172.16.10.2 icmp_seq=1 timeout
-172.16.10.2 icmp_seq=2 timeout
-
-VPCS> ping 172.16.10.2 -c 2
-
-172.16.10.2 icmp_seq=1 timeout
-84 bytes from 172.16.10.2 icmp_seq=2 ttl=63 time=472.764 ms
-
-VPCS> ping 172.16.10.2 -c 2
-
 84 bytes from 172.16.10.2 icmp_seq=1 ttl=63 time=71.892 ms
 84 bytes from 172.16.10.2 icmp_seq=2 ttl=63 time=86.467 ms
 
@@ -52,11 +42,6 @@ VPCS> ping 172.16.30.2 -c 2
 
 84 bytes from 172.16.30.2 icmp_seq=1 ttl=63 time=74.295 ms
 84 bytes from 172.16.30.2 icmp_seq=2 ttl=63 time=134.577 ms
-
-VPCS> ping 172.16.30.3 -c 2
-
-84 bytes from 172.16.30.3 icmp_seq=1 ttl=63 time=189.636 ms
-172.16.30.3 icmp_seq=2 timeout
 
 VPCS> ping 172.16.30.3 -c 2
 
