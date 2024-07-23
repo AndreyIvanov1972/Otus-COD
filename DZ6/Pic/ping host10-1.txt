@@ -10,11 +10,6 @@ VPCS> ping 172.16.10.11 -c 2
 
 VPCS> ping 172.16.10.2 -c 2
 
-172.16.10.2 icmp_seq=1 timeout
-172.16.10.2 icmp_seq=2 timeout
-
-VPCS> ping 172.16.10.2 -c 2
-
 84 bytes from 172.16.10.2 icmp_seq=1 ttl=64 time=909.324 ms
 84 bytes from 172.16.10.2 icmp_seq=2 ttl=64 time=67.819 ms
 
