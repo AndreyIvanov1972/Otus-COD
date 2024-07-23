@@ -76,7 +76,7 @@
 ![ХОСТ 30.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-2.txt)
 
 ### HOST 30.3
-![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-1.txt)
+![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-3.txt)
 
 
 ### VLAN 20
