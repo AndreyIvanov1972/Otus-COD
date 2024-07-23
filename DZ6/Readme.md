@@ -49,26 +49,34 @@
 ## Результаты доступности хостов в клиентских сетях
 
 ### HOST 10.1
-![ХОСТ 1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-1.txt)
+![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-1.txt)
 
 ### HOST 10.11
 ![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host11.txt)
 
 ### HOST 10.2
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-2.txt)
+![ХОСТ 10.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-2.txt)
 
 ### HOST 10.3
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-3.txt)
+![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-3.txt)
 
 ### HOST 20.1
-![ХОСТ 2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_2.txt)
+![ХОСТ 20.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-1.txt)
 
 ### HOST 20.2
-![ХОСТ 3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_3.txt)
+![ХОСТ 20.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-2.txt)
 
 ### HOST 20.3
-![ХОСТ 3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_3.txt)
+![ХОСТ 20.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-1.txt)
 
+### HOST 30.1
+![ХОСТ 30.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-1.txt)
+
+### HOST 30.2
+![ХОСТ 30.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-2.txt)
+
+### HOST 30.3
+![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-1.txt)
 
 
 ### VLAN 20
