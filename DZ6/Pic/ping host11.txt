@@ -35,11 +35,6 @@ VPCS> ping 172.16.20.3 -c 2
 
 VPCS> ping 172.16.20.3 -c 2
 
-172.16.20.3 icmp_seq=1 timeout
-172.16.20.3 icmp_seq=2 timeout
-
-VPCS> ping 172.16.20.3 -c 2
-
 84 bytes from 172.16.20.3 icmp_seq=1 ttl=63 time=61.092 ms
 84 bytes from 172.16.20.3 icmp_seq=2 ttl=63 time=93.243 ms
 
