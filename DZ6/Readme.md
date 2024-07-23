@@ -54,9 +54,22 @@
 ### HOST 10.11
 ![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host11.txt)
 
+### HOST 10.2
+![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-2.txt)
+
+### HOST 10.3
+![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-3.txt)
+
+### HOST 20.1
 ![ХОСТ 2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_2.txt)
 
+### HOST 20.2
 ![ХОСТ 3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_3.txt)
+
+### HOST 20.3
+![ХОСТ 3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_10_3.txt)
+
+
 
 ### VLAN 20
 ![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_20_1.txt)
