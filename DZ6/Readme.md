@@ -78,70 +78,27 @@
 ### HOST 30.3
 ![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-3.txt)
 
+## Результаты команды sh bgp l2vpn evpn
 
-### VLAN 20
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_20_1.txt)
+### Leaf1
+![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf1%20sh%20bgp%20l2vpn%20evpn2.txt)
 
-![ХОСТ 2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_20_2.txt)
+### Leaf2
+![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf2%20sh%20bgp%20l2vpn%20evpn2.txt)
 
-![ХОСТ 3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_20_3.txt)
+### Leaf3
+![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf3%20sh%20bgp%20l2vpn%20evpn2.txt)
 
+## Результаты команды sh running-config
 
-### VLAN 30
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_30_1.txt)
+### Leaf1
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/CONF/LEAF/conf.txt)
 
-![ХОСТ 2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_30_2.txt)
+### Leaf2
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/CONF/LEAF2/conf.txt)
 
-![ХОСТ 3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/VLAN_30_3.txt)
-
-
-## Spine1
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/SPINE1/1.txt)
-
-![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE1.txt))
-
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_Spine1.txt)
-
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summ_Spine1.txt)
-
-## Spine2
-
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/SPINE2/1.txt)
-
-![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DSPINE2.txt))
-
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_Spine2.txt)
-
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summ_Spine2.txt)
-
-
-## Leaf1
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF1/1.txt)
-
-![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF1.txt))
-
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF1.txt)
-
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20%20summary_LEAF1.txt)
-
-## Leaf2
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF2/1.txt)
-
-![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF2.txt))
-
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF2.txt)
-
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summary_LEAF2.txt)
-
-## Leaf3
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/CONF/LEAF3/1.txt)
-
-![Sh ip ospf neighbors](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/Sh%20ospf%20neighbors%3DLEAF3.txt))
-
-![Sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn_LEAF3.txt)
-
-![Sh bgp l2vpn evpn summary](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ5/REZ/sh%20bgp%20l2vpn%20evpn%20summary_LEAF3.txt)
-
+### Leaf3
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/CONF/LEAF3/conf.txt)
 
 
 
