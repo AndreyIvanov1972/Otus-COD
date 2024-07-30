@@ -36,16 +36,16 @@
 
 ## Overlay Сеть
 ### Spine1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Spine1%20sh%20bgp%20l2vpn%20evpn%20summ1.PNG  "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh bgp l2 evpn summary")
 
 ### Spine2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Spine2%20sh%20bgp%20l2vpn%20evpn%20summ1.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
 ### LEAF1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf1%20sh%20bgp%20l2vpn%20evpn%20summ1.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF1-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
 ### LEAF2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf2%20sh%20bgp%20l2vpn%20evpn%20summ1.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
 ### LEAF3
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf3%20sh%20bgp%20l2vpn%20evpn%20summ1.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF3-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
 
 ## Результаты доступности хостов в клиентских сетях
 
