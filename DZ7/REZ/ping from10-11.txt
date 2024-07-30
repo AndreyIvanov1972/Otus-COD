@@ -1,0 +1,50 @@
+VPCS> ping 172.16.10.1 -c 2
+
+84 bytes from 172.16.10.1 icmp_seq=1 ttl=64 time=37.819 ms
+84 bytes from 172.16.10.1 icmp_seq=2 ttl=64 time=43.574 ms
+
+VPCS> ping 172.16.10.11 -c 2
+
+172.16.10.11 icmp_seq=1 ttl=64 time=0.001 ms
+172.16.10.11 icmp_seq=2 ttl=64 time=0.001 ms
+
+VPCS> ping 172.16.10.2 -c 2
+
+84 bytes from 172.16.10.2 icmp_seq=1 ttl=64 time=96.476 ms
+84 bytes from 172.16.10.2 icmp_seq=2 ttl=64 time=110.537 ms
+
+VPCS> ping 172.16.10.3 -c 2
+
+84 bytes from 172.16.10.3 icmp_seq=1 ttl=64 time=106.216 ms
+84 bytes from 172.16.10.3 icmp_seq=2 ttl=64 time=101.021 ms
+
+VPCS> ping 172.16.20.1 -c 2
+
+84 bytes from 172.16.20.1 icmp_seq=1 ttl=63 time=31.017 ms
+84 bytes from 172.16.20.1 icmp_seq=2 ttl=63 time=35.898 ms
+
+VPCS> ping 172.16.20.2 -c 2
+
+84 bytes from 172.16.20.2 icmp_seq=1 ttl=62 time=181.842 ms
+84 bytes from 172.16.20.2 icmp_seq=2 ttl=62 time=127.554 ms
+
+VPCS> ping 172.16.20.3 -c 2
+
+84 bytes from 172.16.20.3 icmp_seq=1 ttl=62 time=73.906 ms
+84 bytes from 172.16.20.3 icmp_seq=2 ttl=62 time=122.435 ms
+
+VPCS> ping 172.16.30.1 -c 2
+
+84 bytes from 172.16.30.1 icmp_seq=1 ttl=63 time=60.520 ms
+84 bytes from 172.16.30.1 icmp_seq=2 ttl=63 time=34.761 ms
+
+VPCS> ping 172.16.30.2 -c 2
+
+84 bytes from 172.16.30.2 icmp_seq=1 ttl=62 time=119.274 ms
+84 bytes from 172.16.30.2 icmp_seq=2 ttl=62 time=164.677 ms
+
+VPCS> ping 172.16.30.3 -c 2
+
+84 bytes from 172.16.30.3 icmp_seq=1 ttl=62 time=172.890 ms
+84 bytes from 172.16.30.3 icmp_seq=2 ttl=62 time=85.167 ms
+
