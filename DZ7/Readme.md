@@ -82,24 +82,30 @@
 ## Результаты команды sh bgp l2vpn evpn
 
 ### Leaf1
-![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf1%20sh%20bgp%20l2vpn%20evpn2.txt)
+![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/LEAF1-bgp-l2-evpn.txt)
 
 ### Leaf2
-![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf2%20sh%20bgp%20l2vpn%20evpn2.txt)
+![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/LEAF2-bgp-l2-evpn.txt)
 
 ### Leaf3
-![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/Leaf3%20sh%20bgp%20l2vpn%20evpn2.txt)
+![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/LEAF3-bgp-l2-evpn.txt)
 
 ## Результаты команды sh running-config
 
+### Spine1
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine1-conf.txt)
+
+### Spine2
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine2-conf.txt)
+
 ### Leaf1
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/CONF/LEAF/conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf1-conf.txt)
 
 ### Leaf2
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/CONF/LEAF2/conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf2-conf.txt)
 
 ### Leaf3
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/CONF/LEAF3/conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf3-conf.txt)
 
 
 
