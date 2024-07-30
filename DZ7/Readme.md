@@ -20,7 +20,7 @@
 
 
 Схема адресного пространства
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/SHEMA_SETI_LAB6.JPG  "Схема адресного пространства")  
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/Net.PNG  "Схема адресного пространства")  
 
 ## Underlay Сеть
 ### Spine1
