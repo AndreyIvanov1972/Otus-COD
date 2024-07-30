@@ -50,34 +50,34 @@
 ## Результаты доступности хостов в клиентских сетях
 
 ### HOST 10.1
-![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-1.txt)
+![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-1.txt)
 
 ### HOST 10.11
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host11.txt)
+![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-11.txt)
 
 ### HOST 10.2
-![ХОСТ 10.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-2.txt)
+![ХОСТ 10.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-2.txt)
 
 ### HOST 10.3
-![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host10-3.txt)
+![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-3.txt)
 
 ### HOST 20.1
-![ХОСТ 20.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-1.txt)
+![ХОСТ 20.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from20-1.txt)
 
 ### HOST 20.2
-![ХОСТ 20.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-2.txt)
+![ХОСТ 20.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from20-2.txt)
 
 ### HOST 20.3
-![ХОСТ 20.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host20-3.txt)
+![ХОСТ 20.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from20-3.txt)
 
 ### HOST 30.1
-![ХОСТ 30.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-1.txt)
+![ХОСТ 30.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from30-1.txt)
 
 ### HOST 30.2
-![ХОСТ 30.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-2.txt)
+![ХОСТ 30.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from30-2.txt)
 
 ### HOST 30.3
-![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ6/Pic/ping%20host30-3.txt)
+![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from30-3.txt)
 
 ## Результаты команды sh bgp l2vpn evpn
 
