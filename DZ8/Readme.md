@@ -37,7 +37,7 @@
 ### LEAF3
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf-3-internet-R5.PNG)
 
-![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_from_10-3.txt)
+![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_from_10_3.txt)
 
 ## Underlay Сеть
 ### Spine1
