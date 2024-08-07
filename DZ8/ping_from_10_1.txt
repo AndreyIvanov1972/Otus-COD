@@ -1,0 +1,7 @@
+VPCS> ping 8.8.8.8
+
+84 bytes from 8.8.8.8 icmp_seq=1 ttl=62 time=105.799 ms
+84 bytes from 8.8.8.8 icmp_seq=2 ttl=62 time=110.861 ms
+84 bytes from 8.8.8.8 icmp_seq=3 ttl=62 time=145.491 ms
+84 bytes from 8.8.8.8 icmp_seq=4 ttl=62 time=475.160 ms
+84 bytes from 8.8.8.8 icmp_seq=5 ttl=62 time=370.386 ms
