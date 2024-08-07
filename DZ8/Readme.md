@@ -23,7 +23,17 @@
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/NET-DZ8.PNG  "Схема адресного пространства")  
 
 ## 8.8.8.8
+### LEAF1
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-1.txt)
 
+### LEAF2
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-1.txt)
+
+### LEAF3
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-1.txt)
 
 ## Underlay Сеть
 ### Spine1
