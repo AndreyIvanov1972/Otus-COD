@@ -22,6 +22,9 @@
 Схема адресного пространства
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/NET-DZ8.PNG  "Схема адресного пространства")  
 
+## 8.8.8.8
+
+
 ## Underlay Сеть
 ### Spine1
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
