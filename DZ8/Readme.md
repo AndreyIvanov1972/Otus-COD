@@ -32,7 +32,7 @@
 ### LEAF2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf-2-internet-R5.PNG)
 
-![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-1.txt)
+![ХОСТ 10.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/REZ/ping_from10_2.txt)
 
 ### LEAF3
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
