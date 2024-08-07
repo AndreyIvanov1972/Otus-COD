@@ -25,6 +25,7 @@
 ## 8.8.8.8
 ### LEAF1
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf-1-internet-R5.PNG)
+
 ![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_from_10_1.txt)
 
 
