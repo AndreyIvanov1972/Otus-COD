@@ -21,7 +21,7 @@
 
 
 Схема адресного пространства
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/NET-DZ8.PNG  "Схема адресного пространства")  
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/NET_8_NEW.PNG  "Схема адресного пространства")  
 
 ## 8.8.8.8
 ### LEAF1
