@@ -26,7 +26,7 @@
 ## 8.8.8.8
 ### LEAF1
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF1_INTERNET.PNG)
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF1_INTERNET.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN10_1.PNG)
 
 ### LEAF2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF2_INTERNET.PNG)
