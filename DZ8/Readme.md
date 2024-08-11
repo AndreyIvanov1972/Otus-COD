@@ -24,7 +24,7 @@
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/NET_8_NEW.PNG  "Схема адресного пространства")  
 
 ## 8.8.8.8
-### ==================================== LEAF1 ====================================
+### =============================== LEAF1 ===============================
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF1_INTERNET.PNG)
 #### VLAN10
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN10_1.PNG)
