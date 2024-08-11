@@ -41,9 +41,9 @@
 ###  =============================== LEAF3 ===============================
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF3_INTERNET.PNG)
 #### VLAN10
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN10_2.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN10_3.PNG)
 #### VLAN20
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN20_2.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN20_3.PNG)
 
 
 ## Underlay Сеть
