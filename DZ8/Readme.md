@@ -49,16 +49,15 @@
 ###  =============================== LEAF4 ===============================
 
 #### VRF Test1
-
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
 #### VRF PROD
-
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
 #### VLAN101
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
 
 
 ## Underlay Сеть
-### Spine1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+
 ### Spine2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
 ### LEAF1
