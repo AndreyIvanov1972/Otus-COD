@@ -23,7 +23,7 @@
 Схема адресного пространства
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/NET_8_NEW.PNG  "Схема адресного пространства")  
 
-## 8.8.8.8
+## 8.8.8.8 - НАШ ГУГЛ
 ### =============================== LEAF1 ===============================
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF1_INTERNET.PNG)
 #### VLAN10
@@ -70,6 +70,8 @@
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
 ### LEAF3
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF3-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
+
+##  172.16.101.0/24 - VRF PROD
 
 ## Результаты доступности хостов в клиентских сетях
 
