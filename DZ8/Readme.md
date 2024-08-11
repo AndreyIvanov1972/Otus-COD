@@ -85,18 +85,18 @@
 ## Результаты команды sh running-config
 
 ### Spine2
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine1-conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/-SPINE2.txt)
 
 ### Leaf1
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf1-conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/-LEAF1.txt)
 
 ### Leaf2
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf2-conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/-LEAF2.txt)
 
 ### Leaf3
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf3-conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/-LEAF3.txt)
 
 ### Leaf4
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine2-conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/-LEAF4.txt)
 
 
