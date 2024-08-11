@@ -60,79 +60,32 @@
 
 ### Spine2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-SPINE2.PNG)
-### Spine4
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-SPINE4.PNG)
 ### LEAF1
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-LEAF1.PNG)
 ### LEAF2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-LEAF2.PNG)
 ### LEAF3
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-LEAF3.PNG)
+### LEAF4
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-SPINE4.PNG)
 
 ## Overlay Сеть
 
 ### Spine2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
-### Spine4
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_bgp_l2vpn_evpn_summ-SPINE2.PNG)
 ### LEAF1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF1-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_bgp_l2vpn_evpn_summ-LEAF1.PNG)
 ### LEAF2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_bgp_l2vpn_evpn_summ-LEAF2.PNG)
 ### LEAF3
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF3-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
-
-
-## Результаты доступности хостов в клиентских сетях
-
-### HOST 10.1
-![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-1.txt)
-
-### HOST 10.11
-![ХОСТ 11](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-11.txt)
-
-### HOST 10.2
-![ХОСТ 10.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-2.txt)
-
-### HOST 10.3
-![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from10-3.txt)
-
-### HOST 20.1
-![ХОСТ 20.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from20-1.txt)
-
-### HOST 20.2
-![ХОСТ 20.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from20-2.txt)
-
-### HOST 20.3
-![ХОСТ 20.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from20-3.txt)
-
-### HOST 30.1
-![ХОСТ 30.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from30-1.txt)
-
-### HOST 30.2
-![ХОСТ 30.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from30-2.txt)
-
-### HOST 30.3
-![ХОСТ 30.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/ping%20from30-3.txt)
-
-## Результаты команды sh bgp l2vpn evpn
-
-### Leaf1
-![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/LEAF1-bgp-l2-evpn.txt)
-
-### Leaf2
-![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/LEAF2-bgp-l2-evpn.txt)
-
-### Leaf3
-![sh bgp l2vpn evpn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/LEAF3-bgp-l2-evpn.txt)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_bgp_l2vpn_evpn_summ-LEAF3.PNG)
+### LEAF4
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_bgp_l2vpn_evpn_summ-SPINE4.PNG)
 
 ## Результаты команды sh running-config
 
-### Spine1
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine1-conf.txt)
-
 ### Spine2
-![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine2-conf.txt)
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine1-conf.txt)
 
 ### Leaf1
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf1-conf.txt)
@@ -143,5 +96,7 @@
 ### Leaf3
 ![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/leaf3-conf.txt)
 
+### Leaf4
+![Sh runn](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/REZ/spine2-conf.txt)
 
 
