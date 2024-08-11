@@ -59,17 +59,15 @@
 ## Underlay Сеть
 
 ### Spine2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-SPINE2.PNG)
 ### LEAF1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF1-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-LEAF1.PNG)
 ### LEAF2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF2-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-LEAF2.PNG)
 ### LEAF3
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF3-sh-%20ip-%20bgp%20summ.PNG  "Sh ip bgp summary")
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/sh_ip_bgp_summ-LEAF3.PNG)
 
 ## Overlay Сеть
-### Spine1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE1-sh-%20ip-%20bgp%20summ.PNG  "Sh bgp l2 evpn summary")
 
 ### Spine2
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/SPINE2-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
