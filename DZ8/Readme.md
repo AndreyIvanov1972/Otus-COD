@@ -49,9 +49,9 @@
 ###  =============================== LEAF4 ===============================
 
 #### VRF Test1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf4-vrf-Test1.PNG)
 #### VRF PROD
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf4-vrf-PROD.PNG)
 #### VLAN101
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
 
