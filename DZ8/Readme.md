@@ -45,6 +45,12 @@
 #### VLAN20
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN20_3.PNG)
 
+##  172.16.101.0/24 - VRF PROD
+###  =============================== LEAF4 ===============================
+
+#### VLAN1010
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN101_3.PNG)
+
 
 ## Underlay Сеть
 ### Spine1
@@ -71,7 +77,6 @@
 ### LEAF3
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ7/PICT/LEAF3-sh-%20ip-%20bgp%20summ.PNG "Sh bgp l2 evpn summary")
 
-##  172.16.101.0/24 - VRF PROD
 
 ## Результаты доступности хостов в клиентских сетях
 
