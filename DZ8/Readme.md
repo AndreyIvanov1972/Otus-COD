@@ -48,7 +48,11 @@
 ##  172.16.101.0/24 - VRF PROD
 ###  =============================== LEAF4 ===============================
 
-#### VLAN1010
+#### VRF Test1
+
+#### VRF PROD
+
+#### VLAN101
 ![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN_101.PNG)
 
 
