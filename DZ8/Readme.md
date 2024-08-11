@@ -49,7 +49,7 @@
 ###  =============================== LEAF4 ===============================
 
 #### VLAN1010
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN101_3.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_INTERNET_VLAN101.PNG)
 
 
 ## Underlay Сеть
