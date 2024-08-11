@@ -25,18 +25,18 @@
 
 ## 8.8.8.8
 ### LEAF1
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf-1-internet-R5.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF1_INTERNET.PNG)
 
 ![ХОСТ 10.1](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_from_10_1.txt)
 
 
 ### LEAF2
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf-2-internet-R5.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF2_INTERNET.PNG)
 
 ![ХОСТ 10.2](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_from_10_2.txt)
 
 ### LEAF3
-![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/Leaf-3-internet-R5.PNG)
+![alt-текст](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/LEAF3_INTERNET.PNG)
 
 ![ХОСТ 10.3](https://github.com/AndreyIvanov1972/Otus-COD/blob/main/DZ8/ping_from_10_3.txt)
 
